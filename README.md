@@ -31,4 +31,6 @@
  
 ![alt text](https://github.com/rapexa/Introduction-to-NFTs/blob/main/Pictures/Fungible-vs-Non-Fungible-Tokens.jpg?raw=true)
 
+ ## توکن های غیر قابل تعوسض 
+ 
 </div>
