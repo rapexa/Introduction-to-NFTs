@@ -115,4 +115,6 @@
  
  ![alt text](https://github.com/rapexa/Introduction-to-NFTs/blob/main/Pictures/CryptoKitties.png)
  
+ امروزه فعالیت کریپتو کیتیز تا حدودیی کاهش یافته است و به همین ترتیب نسبت به ان زمان حجم معاملاتی  پایین تری دارد اما نمیتوانیم از تاثیری که کریپتوکیتیز بر دنیای NFT ها داشته چشم پوشی کنیم :)
+ 
 </div>
