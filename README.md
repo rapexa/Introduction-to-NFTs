@@ -105,10 +105,10 @@
  
  انواع مختلف پانک ویژگی های کمیاب و متفاوت و مشخص دارند که آنها را دارای صفات نادر و مطلوب بسیار ارزشمندی ساخه است تفاوت انها با یکدیگر باعث ایجاد ارزش های مختلف برای هر یک از انها شده است.
  
- ![alt text](https://github.com/rapexa/Introduction-to-NFTs/blob/main/Pictures/cryptopunk-type.webp)
+ ![alt text](https://github.com/rapexa/Introduction-to-NFTs/blob/main/Pictures/cryptopunk-type.png)
  
  اگر چه گریپتو پانک ها در ابتدای راه خود برای عموم مردم احساس ویروسی داشتند اما اخیرا به دلیل اینکه آنها اولین NFT واقعی بودند که در بلاکچین اتریوم راه اندازی شدند بسیاز مورد توجه قرار گرفته شدند ناگفته نماند از امجایی که Cryptopunks قبل از ایجاد استاندارد توکن های غیر قابل تعویض ERC-721 ایجاد شده اند بنیان گذاران ان بعد ها مجبورد شدند از نسخه اصطاح شده ان استفاده کننئ. با اینکه کریپتو پانک ها با استاندار توکن ERC-20 پیاده شده بودند اما انها به عنوان الهام بخش ایجاد استاندارد ERC-721 عمل کردند و راه را برای ایجاد این استاندارد هموار کردند.
  
- ![alt text](https://github.com/rapexa/Introduction-to-NFTs/blob/main/Pictures/cryptopunks.jpg)
+ ![alt text](https://github.com/rapexa/Introduction-to-NFTs/blob/main/Pictures/cryptopunks.png)
  
 </div>
