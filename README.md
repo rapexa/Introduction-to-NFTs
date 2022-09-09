@@ -117,4 +117,50 @@
  
  امروزه فعالیت کریپتو کیتیز تا حدودیی کاهش یافته است و به همین ترتیب نسبت به ان زمان حجم معاملاتی  پایین تری دارد اما نمیتوانیم از تاثیری که کریپتوکیتیز بر دنیای NFT ها داشته چشم پوشی کنیم :)
  
+ ## منابع
+ 
+- Assia, Y. (2012). bitcoin 2.X (aka Colored Bitcoin) – initial specs. Retrieved from https://yoniassia.com/coloredbitcoin/
+
+- Bitcoin Community. (n.d.). Colored Coins. Bitcoin Wiki. Retrieved from https://en.bitcoin.it/wiki/Colored_Coins
+
+- Blenkinsop, C. (2018). Nonfungible Tokens, Explained. CoinTelegraph. Retrieved from https://cointelegraph.com/explained/non-fungible-tokens-explained
+
+- Cheng, E. (2017). Meet CryptoKitties, the $100,000 digital beanie babies epitomizing the cryptocurrency mania. CNBC. Retrieved from https://www.cnbc.com/2017/12/06/meet-cryptokitties-the-new-digital-beaniebabies-selling-for-100k.html
+CoinTelegraph Magazine. (2020). Nonfungible Tokens: The Quick Guide. Retrieved from https://cointelegraph.com/magazine/nonfungible-tokens/#big-NFTnews-in-2020
+
+- Cornish, C. (2018). CryptoKitties, CryptoPunks and the birth of a cottage industry. Financial Times. Retrieved from https://www.ft.com/content/f9c1422a-47c9- 11e8-8c77-ff51caedcde6
+
+- Crypto.com Research & Insights. (2020). Token Standards. Retrieved from https://crypto.com/en/university/article.html?category=crypto101&page=token-standards
+
+- Cuen, L. (2020). The Fast-Growing NFT Market Is Problematic Yet Promising. Coindesk. Retrieved from https://www.coindesk.com/crypto-nft-trading-rari-yieldfarming
+
+- DappRadar. (n.d.). DappRadar. Retrieved from https://dappradar.com/
+
+- De, N. (2018). 'Colored Coins' Startup Coinprism is Shutting Down. Coindesk. Retrieved from https://www.coindesk.com/blockchain-startup-coinprism-to-shut-downin-2-days
+
+- Klein, J. (2018). I Went to the First Live Auction for Rare Pepes on the Blockchain. Vice. Retrieved from https://www.vice.com/en/article/ev57p4/i-went-to-the-firstlive-auction-for-rare-pepes-on-the-blockchain
+
+- Kramer, M. (2020). Non-Fungible Tokens (NFT): Beginner's Guide. Retrieved from https://decrypt.co/resources/non-fungible-tokens-nfts-explained-guide-learnblockchain
+
+- Lau, K. (2020). Non-Fungible Token Survey. Retrieved from https://crypto.com/en/research/article.html?category=survey&page=non_fungible_token_survey
+
+- Linares, M. (2018). Why crypto collectors are spending thousands on cartoon cats. CNN Style. Retrieved from https://edition.cnn.com/style/article/cryptokittyblockchain/index.html
+
+- Morrongiello, J. (2018). Non-Fungible Tokens: Future Applications and Challenges. Retrieved from https://medium.com/point-nine-news/non-fungible-tokensfuture-applications-and-challenges-a73117efc67
+NonFungible.com. (2020). Retrieved from https://nonfungible.com/
+
+- Notopoulos, K. (2015). We Asked The Art World How Much Rare Pepes Are Going For. BuzzFeed News. Retrieved from https://www.buzzfeednews.com/article/katienotopoulos/what-is-the-marketvalue-of-a-rare-pepe
+
+- OpenLaw. (2018). The Purchase and Sale of Real Property on Ethereum. Consensys. Retrieved from https://media.consensys.net/the-purchase-and-sale-of-realproperty-on-ethereum-55bdc289a7b5
+
+- Rarible. (2020). Introducing $RARI — the first governance token in the NFT space. Medium. Retrieved from https://medium.com/@rarible/introducing-rari-thefirst-governance-token-in-the-nft-space-5dbcc55b6c43
+
+- Serrels, M. (2018). Someone just bought a cryptocurrency cat for $172,000. CNET. Retrieved from https://www.cnet.com/news/best-black-friday-2020-deals-bigprice-drops-on-apple-watch-dji-mavic-mini-roku-fitbit-more/
+
+- Wang, K. (2020). On-Chain Market Sizing. Crypto.com. Retrieved from https://crypto.com/en/research/article.html?category=data&page=on-chainmarket-sizing
+
+- Zmudzinski, A. (2019). Nike Patents a System for Tokenizing Shoes on Ethereum's Blockchain. Retrieved from https://cointelegraph.com/news/nike-patents-asystem-for-tokenizing-shoes-on-ethereums-blockchain
+
+- Kendrick, L. (2020). Non-Fungible Tokens A Brief Introduction and History. Retrieved from https://crypto.com/research/non-fungible-tokens
+ 
 </div>
