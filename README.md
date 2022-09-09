@@ -147,7 +147,8 @@ CoinTelegraph Magazine. (2020). Nonfungible Tokens: The Quick Guide. Retrieved f
 - Linares, M. (2018). Why crypto collectors are spending thousands on cartoon cats. CNN Style. Retrieved from https://edition.cnn.com/style/article/cryptokittyblockchain/index.html
 
 - Morrongiello, J. (2018). Non-Fungible Tokens: Future Applications and Challenges. Retrieved from https://medium.com/point-nine-news/non-fungible-tokensfuture-applications-and-challenges-a73117efc67
-NonFungible.com. (2020). Retrieved from https://nonfungible.com/
+
+- NonFungible.com. (2020). Retrieved from https://nonfungible.com/
 
 - Notopoulos, K. (2015). We Asked The Art World How Much Rare Pepes Are Going For. BuzzFeed News. Retrieved from https://www.buzzfeednews.com/article/katienotopoulos/what-is-the-marketvalue-of-a-rare-pepe
 
