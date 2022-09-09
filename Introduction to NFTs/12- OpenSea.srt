@@ -1,0 +1,103 @@
+﻿1
+00:00:00,000 --> 00:00:01,990
+We reach the final stretch.
+
+2
+00:00:02,000 --> 00:00:06,590
+How do we spell and distribute an nft?
+
+3
+00:00:07,600 --> 00:00:08,890
+Here you see open?
+
+4
+00:00:08,900 --> 00:00:12,390
+See a website to discover collect them selves,
+
+5
+00:00:12,400 --> 00:00:13,790
+extraordinary entities.
+
+6
+00:00:13,800 --> 00:00:18,790
+It's one of the largest nft marketplaces available and
+
+7
+00:00:18,800 --> 00:00:22,290
+to simplify the process to entry without needing to build
+
+8
+00:00:22,300 --> 00:00:23,689
+your own smart contract.
+
+9
+00:00:23,700 --> 00:00:24,889
+Deploy your own code,
+
+10
+00:00:24,900 --> 00:00:25,889
+learn how to code.
+
+11
+00:00:25,900 --> 00:00:26,790
+And all of that in-between.
+
+12
+00:00:26,800 --> 00:00:31,490
+We're going to use Open Sea to create our own
+
+13
+00:00:31,500 --> 00:00:32,690
+mfp.
+
+14
+00:00:32,700 --> 00:00:37,890
+But you will need an aetherium wallet to use
+
+15
+00:00:37,900 --> 00:00:38,390
+open sea.
+
+16
+00:00:38,400 --> 00:00:39,990
+And so,
+
+17
+00:00:40,000 --> 00:00:41,490
+like we said,
+
+18
+00:00:41,500 --> 00:00:44,290
+aetherium is powering a lot of the energy market and
+
+19
+00:00:44,300 --> 00:00:48,590
+if these are in huge demand and open sea is
+
+20
+00:00:48,600 --> 00:00:52,090
+a Marketplace that built on top of aetherium to make
+
+21
+00:00:52,100 --> 00:00:54,790
+it easy for you to sell distribute and even by
+
+22
+00:00:54,800 --> 00:00:55,990
+your own interpeace.
+
+23
+00:00:56,000 --> 00:00:56,990
+Now,
+
+24
+00:00:57,000 --> 00:01:00,190
+we're going to go specifically through how to open your
+
+25
+00:01:00,200 --> 00:01:02,990
+own wallet and sell on the Open Sea.
+
+26
+00:01:03,400 --> 00:01:04,289
+Let's get start.

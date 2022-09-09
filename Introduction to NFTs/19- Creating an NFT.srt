@@ -1,0 +1,323 @@
+﻿1
+00:00:00,500 --> 00:00:04,190
+Now that we have a collection and we have it
+
+2
+00:00:04,200 --> 00:00:06,290
+all set up with everything that we need.
+
+3
+00:00:06,300 --> 00:00:06,590
+Right?
+
+4
+00:00:06,600 --> 00:00:08,990
+We have our own personal profile does eating profile.
+
+5
+00:00:09,000 --> 00:00:12,590
+We now have a collection on the market place.
+
+6
+00:00:12,600 --> 00:00:13,990
+The collection on the market place,
+
+7
+00:00:14,000 --> 00:00:15,590
+isn't the end of Kezia.
+
+8
+00:00:15,600 --> 00:00:16,689
+It's just Open,
+
+9
+00:00:16,700 --> 00:00:18,689
+Seas way of pulling together.
+
+10
+00:00:18,700 --> 00:00:20,689
+All of the items that you want on there.
+
+11
+00:00:20,700 --> 00:00:22,590
+What you would call a project.
+
+12
+00:00:22,600 --> 00:00:22,790
+So,
+
+13
+00:00:22,800 --> 00:00:23,590
+your art pieces,
+
+14
+00:00:23,600 --> 00:00:25,790
+you can put in different collection if you wanted to
+
+15
+00:00:25,800 --> 00:00:27,790
+make specific elections for specific things.
+
+16
+00:00:27,800 --> 00:00:31,490
+So now let's go ahead and add an item over
+
+17
+00:00:31,500 --> 00:00:31,689
+here.
+
+18
+00:00:31,700 --> 00:00:34,490
+You can see the create a new item form.
+
+19
+00:00:34,500 --> 00:00:37,790
+This is where open allows us to actually,
+
+20
+00:00:37,800 --> 00:00:42,890
+upload our image or video or MP3,
+
+21
+00:00:42,900 --> 00:00:44,090
+whatever the case may be.
+
+22
+00:00:44,100 --> 00:00:44,790
+And so,
+
+23
+00:00:44,800 --> 00:00:46,490
+what we're going to upload is our very first,
+
+24
+00:00:46,500 --> 00:00:48,790
+and if he does etm biker,
+
+25
+00:00:48,800 --> 00:00:52,090
+and we're going to call him this etm biker.
+
+26
+00:00:52,500 --> 00:00:57,390
+So here you can see the uploaded you can do,
+
+27
+00:00:57,400 --> 00:00:57,890
+jpg,
+
+28
+00:00:57,900 --> 00:00:58,190
+PNG,
+
+29
+00:00:58,200 --> 00:00:58,690
+GIF,
+
+30
+00:00:58,700 --> 00:01:01,790
+SVG MP3 all of the above.
+
+31
+00:01:01,800 --> 00:01:05,489
+And if you have a project externally,
+
+32
+00:01:05,500 --> 00:01:05,890
+right?
+
+33
+00:01:05,900 --> 00:01:07,990
+If you have a bigger project where you have a
+
+34
+00:01:08,000 --> 00:01:09,990
+website with all the information on the art,
+
+35
+00:01:10,000 --> 00:01:12,990
+you're trying to make you can link the specific item
+
+36
+00:01:13,000 --> 00:01:17,089
+with extra information so that they can go view your
+
+37
+00:01:17,100 --> 00:01:17,890
+project.
+
+38
+00:01:17,900 --> 00:01:19,890
+Now over here,
+
+39
+00:01:19,900 --> 00:01:22,190
+you can fill in the description here will fill in
+
+40
+00:01:22,200 --> 00:01:24,990
+the very first ztm,
+
+41
+00:01:25,000 --> 00:01:25,890
+nft.
+
+42
+00:01:26,400 --> 00:01:28,890
+Ztm biker.
+
+43
+00:01:30,300 --> 00:01:32,890
+And then we'll add it to the collection 02 Mastery.
+
+44
+00:01:32,900 --> 00:01:34,289
+Cuz that's the only connection we have.
+
+45
+00:01:34,300 --> 00:01:34,690
+And here,
+
+46
+00:01:34,700 --> 00:01:35,390
+you can see that.
+
+47
+00:01:35,400 --> 00:01:36,890
+You can add properties to it,
+
+48
+00:01:36,900 --> 00:01:37,490
+right?
+
+49
+00:01:37,500 --> 00:01:38,890
+You get out of properties,
+
+50
+00:01:38,900 --> 00:01:40,789
+like character age,
+
+51
+00:01:40,800 --> 00:01:41,890
+all that stuff.
+
+52
+00:01:41,900 --> 00:01:44,890
+So what we're going to do is we'll give it
+
+53
+00:01:44,900 --> 00:01:45,190
+a character.
+
+54
+00:01:46,500 --> 00:01:48,690
+But we're going to call the character number one,
+
+55
+00:01:48,700 --> 00:01:50,589
+cuz the very first NFL team.
+
+56
+00:01:51,600 --> 00:01:52,390
+Can get a level,
+
+57
+00:01:52,400 --> 00:01:53,390
+we can give its that,
+
+58
+00:01:53,400 --> 00:01:55,190
+you could even give it unlock.
+
+59
+00:01:55,200 --> 00:01:55,990
+Apple content,
+
+60
+00:01:56,000 --> 00:01:58,890
+unlockable content being specific,
+
+61
+00:01:58,900 --> 00:01:59,589
+access key,
+
+62
+00:01:59,600 --> 00:02:03,390
+and email something to contact someone or a specific item
+
+63
+00:02:03,400 --> 00:02:06,990
+code that you could redeem for something and who knows?
+
+64
+00:02:07,000 --> 00:02:08,990
+Maybe we'll put something in here.
+
+65
+00:02:09,400 --> 00:02:12,590
+So that's where you can put unlockable content.
+
+66
+00:02:14,400 --> 00:02:16,590
+Next to that you can mark it as explicit content
+
+67
+00:02:16,600 --> 00:02:17,390
+just in case.
+
+68
+00:02:17,400 --> 00:02:20,390
+It's not for young people and you can determine on
+
+69
+00:02:20,400 --> 00:02:21,190
+what blockchain.
+
+70
+00:02:21,200 --> 00:02:25,590
+So open see supports aetherium and polygon polygon is a
+
+71
+00:02:25,600 --> 00:02:26,190
+gas free.
+
+72
+00:02:26,200 --> 00:02:28,190
+Block Chain experience that works with aetherium.
+
+73
+00:02:28,200 --> 00:02:31,890
+So you can determine on which chain you basically want
+
+74
+00:02:31,900 --> 00:02:34,690
+to sell it and then once you hit create you
+
+75
+00:02:34,700 --> 00:02:35,190
+created,
+
+76
+00:02:36,700 --> 00:02:38,090
+But once you hit create,
+
+77
+00:02:38,100 --> 00:02:43,090
+it actually goes through the process of creating your nft
+
+78
+00:02:43,100 --> 00:02:46,090
+on the Open Sea platform.
+
+79
+00:02:46,100 --> 00:02:49,690
+Now at that point it had been distributed to the
+
+80
+00:02:49,700 --> 00:02:50,590
+marketplace just yet.
+
+81
+00:02:50,600 --> 00:02:53,090
+It just says you created the ztm biker.

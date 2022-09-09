@@ -1,0 +1,359 @@
+﻿1
+00:00:00,100 --> 00:00:01,090
+The next standard,
+
+2
+00:00:01,100 --> 00:00:02,190
+you need to know about him.
+
+3
+00:00:02,200 --> 00:00:06,190
+Maybe the final standard is ERC 1155.
+
+4
+00:00:06,200 --> 00:00:09,690
+It was coined the final standard for any of these
+
+5
+00:00:09,700 --> 00:00:10,190
+on his hair.
+
+6
+00:00:10,200 --> 00:00:11,090
+And now it's a bold statement.
+
+7
+00:00:11,100 --> 00:00:12,990
+But basically there was a steam,
+
+8
+00:00:13,000 --> 00:00:16,290
+the engine team and they built this new smart contract
+
+9
+00:00:16,300 --> 00:00:18,189
+standard for entities on aetherium.
+
+10
+00:00:18,200 --> 00:00:19,689
+And basically,
+
+11
+00:00:19,700 --> 00:00:23,689
+you can think of it as an enhancement of erc721
+
+12
+00:00:23,700 --> 00:00:26,389
+or a superset of the template.
+
+13
+00:00:26,400 --> 00:00:27,590
+That was erc721.
+
+14
+00:00:27,600 --> 00:00:28,389
+Now,
+
+15
+00:00:28,400 --> 00:00:30,790
+why is it a superset of erc721?
+
+16
+00:00:30,800 --> 00:00:31,189
+Well,
+
+17
+00:00:31,200 --> 00:00:31,790
+first of all,
+
+18
+00:00:31,800 --> 00:00:34,990
+it's cheaper because you can hold asset classes,
+
+19
+00:00:35,000 --> 00:00:35,490
+it.
+
+20
+00:00:35,500 --> 00:00:39,090
+No longer tracks singular ownership on erc721.
+
+21
+00:00:39,100 --> 00:00:42,890
+You interact with a contract and it tracked ownership of
+
+22
+00:00:42,900 --> 00:00:44,390
+each individual piece.
+
+23
+00:00:44,400 --> 00:00:47,690
+What this meant was that if you had.
+
+24
+00:00:47,700 --> 00:00:50,290
+And if he's on an erc721 contract,
+
+25
+00:00:50,300 --> 00:00:52,390
+let's say you own five assets.
+
+26
+00:00:52,400 --> 00:00:54,490
+If you wanted to transfer those assets,
+
+27
+00:00:54,500 --> 00:00:58,490
+you would have to transfer those assets one by one,
+
+28
+00:00:58,500 --> 00:00:58,890
+right?
+
+29
+00:00:58,900 --> 00:00:59,890
+And so doing that.
+
+30
+00:01:00,100 --> 00:01:00,390
+Buy one,
+
+31
+00:01:00,400 --> 00:01:03,390
+you're paying fees on each individual transaction.
+
+32
+00:01:03,400 --> 00:01:05,489
+And er c1155.
+
+33
+00:01:05,500 --> 00:01:07,390
+You can hold asset classes.
+
+34
+00:01:07,400 --> 00:01:10,490
+So if you if you buy 10 and if tease
+
+35
+00:01:10,500 --> 00:01:11,789
+of you know,
+
+36
+00:01:11,800 --> 00:01:14,690
+let's say you buy 10 digital art pieces from the
+
+37
+00:01:14,700 --> 00:01:16,089
+same project.
+
+38
+00:01:16,100 --> 00:01:17,789
+Now in,
+
+39
+00:01:17,800 --> 00:01:19,089
+ER c1155,
+
+40
+00:01:19,100 --> 00:01:21,190
+you can hold all of those 10 together and you
+
+41
+00:01:21,200 --> 00:01:22,390
+can sell them together.
+
+42
+00:01:22,400 --> 00:01:23,690
+You can transfer them together.
+
+43
+00:01:23,700 --> 00:01:25,190
+It's cheaper.
+
+44
+00:01:25,200 --> 00:01:27,890
+You don't have to pay as many Gatsby's going back
+
+45
+00:01:27,900 --> 00:01:29,289
+and forth because you can sell them in bulk.
+
+46
+00:01:29,300 --> 00:01:31,089
+There's a lot of enhancements,
+
+47
+00:01:31,100 --> 00:01:32,089
+but it's a super said,
+
+48
+00:01:32,100 --> 00:01:37,089
+because you can also create an erc721 acid inside
+
+49
+00:01:37,100 --> 00:01:38,490
+of a smart contract.
+
+50
+00:01:38,500 --> 00:01:38,690
+That is,
+
+51
+00:01:38,700 --> 00:01:38,890
+er,
+
+52
+00:01:38,900 --> 00:01:39,990
+c1155.
+
+53
+00:01:40,000 --> 00:01:45,089
+This is a complicated mechanism for saying that they're complimentary.
+
+54
+00:01:45,100 --> 00:01:46,390
+Basically,
+
+55
+00:01:46,400 --> 00:01:46,890
+they're complimentary.
+
+56
+00:01:46,900 --> 00:01:48,089
+They're not competition.
+
+57
+00:01:48,100 --> 00:01:53,990
+Erc721 can support our c1155 but ER c1155
+
+58
+00:01:54,000 --> 00:01:54,990
+the smart contract,
+
+59
+00:01:55,000 --> 00:01:56,990
+pipe and support.
+
+60
+00:01:57,400 --> 00:01:58,690
+Assets of this time.
+
+61
+00:01:58,700 --> 00:02:00,390
+And so with that,
+
+62
+00:02:00,400 --> 00:02:03,089
+what you need to know here is that this is
+
+63
+00:02:03,100 --> 00:02:05,089
+the current standard.
+
+64
+00:02:05,100 --> 00:02:06,690
+This is where it started.
+
+65
+00:02:06,700 --> 00:02:08,390
+This is where it's going.
+
+66
+00:02:08,400 --> 00:02:10,690
+And by knowing that you can,
+
+67
+00:02:10,699 --> 00:02:13,590
+deep dive a bit deeper into all of the aspects.
+
+68
+00:02:13,600 --> 00:02:14,990
+I can go into it and I will be linking
+
+69
+00:02:15,000 --> 00:02:18,290
+the docks to the standard CR c1155 so you can
+
+70
+00:02:18,300 --> 00:02:19,790
+read a bit deeper about it.
+
+71
+00:02:19,800 --> 00:02:21,990
+But at the end of the day this is what
+
+72
+00:02:22,000 --> 00:02:26,390
+most marketplaces are running on right now and how asset
+
+73
+00:02:26,400 --> 00:02:28,690
+classes are kind of divvied up.
+
+74
+00:02:28,700 --> 00:02:29,390
+Right?
+
+75
+00:02:29,400 --> 00:02:31,590
+We we we want things to be cheaper,
+
+76
+00:02:31,600 --> 00:02:32,290
+faster smarter,
+
+77
+00:02:32,300 --> 00:02:34,490
+cuz the theorem can cost a lot of money when
+
+78
+00:02:34,500 --> 00:02:35,890
+you're paying these gas fees,
+
+79
+00:02:35,900 --> 00:02:40,190
+to transfer things and erc721 did a lot of good
+
+80
+00:02:40,200 --> 00:02:40,490
+things,
+
+81
+00:02:40,500 --> 00:02:44,990
+but the enhancements that come from 1155 far,
+
+82
+00:02:45,000 --> 00:02:47,390
+outweigh the benefits of 7:00,
+
+83
+00:02:47,400 --> 00:02:47,690
+to 1.
+
+84
+00:02:47,700 --> 00:02:50,290
+And that's where the trickiness lies.
+
+85
+00:02:50,300 --> 00:02:51,190
+But basically,
+
+86
+00:02:51,200 --> 00:02:53,790
+this is the Smart contract type that is now powering
+
+87
+00:02:53,800 --> 00:02:55,990
+the majority of transactions around,
+
+88
+00:02:56,000 --> 00:02:57,390
+and if he's on a theorem and now,
+
+89
+00:02:57,400 --> 00:02:58,690
+What we need to know here.
+
+90
+00:02:58,700 --> 00:02:59,890
+That is the Crux of it all.

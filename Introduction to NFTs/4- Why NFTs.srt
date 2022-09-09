@@ -1,0 +1,743 @@
+﻿1
+00:00:00,000 --> 00:00:01,390
+Now that we know what,
+
+2
+00:00:01,400 --> 00:00:04,490
+and if these are right and what the difference is
+
+3
+00:00:04,500 --> 00:00:07,790
+between a fungible and a non-fungible asset.
+
+4
+00:00:07,800 --> 00:00:10,190
+We can definitely have to ask her a question.
+
+5
+00:00:10,200 --> 00:00:11,790
+Why,
+
+6
+00:00:11,800 --> 00:00:13,690
+why do we need?
+
+7
+00:00:13,700 --> 00:00:15,490
+And if peace to do anything at all?
+
+8
+00:00:15,500 --> 00:00:18,590
+What is the purpose of a saying?
+
+9
+00:00:18,600 --> 00:00:18,990
+Okay.
+
+10
+00:00:19,000 --> 00:00:19,889
+Well,
+
+11
+00:00:19,900 --> 00:00:20,290
+we know what,
+
+12
+00:00:20,300 --> 00:00:22,490
+a fungible acid as we know what a non-fungible asset
+
+13
+00:00:22,500 --> 00:00:22,689
+is,
+
+14
+00:00:22,700 --> 00:00:25,990
+but why do we need these tokens to Define ownership,
+
+15
+00:00:26,000 --> 00:00:26,590
+right?
+
+16
+00:00:26,600 --> 00:00:27,790
+And,
+
+17
+00:00:27,800 --> 00:00:28,389
+you know,
+
+18
+00:00:28,400 --> 00:00:29,490
+at the end of the day,
+
+19
+00:00:29,500 --> 00:00:30,389
+that's a great question.
+
+20
+00:00:31,400 --> 00:00:31,889
+So,
+
+21
+00:00:31,900 --> 00:00:32,990
+let's talk about purpose,
+
+22
+00:00:33,000 --> 00:00:33,390
+right?
+
+23
+00:00:33,400 --> 00:00:37,990
+Let's talk about purpose in a digital world in the
+
+24
+00:00:38,000 --> 00:00:42,690
+digital world ownership was never clearly defined.
+
+25
+00:00:42,700 --> 00:00:47,890
+What I mean by this was never clearly defined honestly,
+
+26
+00:00:47,900 --> 00:00:47,990
+like,
+
+27
+00:00:48,000 --> 00:00:49,490
+when I bought something,
+
+28
+00:00:49,500 --> 00:00:51,890
+I knew I was the owner of it yet.
+
+29
+00:00:51,900 --> 00:00:52,490
+You knew,
+
+30
+00:00:52,500 --> 00:00:54,390
+but was it public?
+
+31
+00:00:54,400 --> 00:00:58,590
+Did you have the sole rights to that item?
+
+32
+00:00:58,600 --> 00:01:01,190
+Is it traceable?
+
+33
+00:01:01,200 --> 00:01:03,590
+Write all of those things just like,
+
+34
+00:01:03,600 --> 00:01:04,089
+only a watch.
+
+35
+00:01:04,099 --> 00:01:05,289
+I know that's my watch.
+
+36
+00:01:05,300 --> 00:01:07,390
+I know that I bought that watch.
+
+37
+00:01:07,400 --> 00:01:08,390
+Therefore.
+
+38
+00:01:08,400 --> 00:01:09,589
+That is my watch,
+
+39
+00:01:09,600 --> 00:01:09,890
+right.
+
+40
+00:01:10,400 --> 00:01:11,289
+Yeah,
+
+41
+00:01:11,300 --> 00:01:11,789
+but like,
+
+42
+00:01:11,800 --> 00:01:15,390
+what actually makes it your watch is it tracked in
+
+43
+00:01:15,400 --> 00:01:16,190
+the database somewhere?
+
+44
+00:01:16,200 --> 00:01:19,690
+Does Rolex keep a database of the serial number against
+
+45
+00:01:19,700 --> 00:01:19,890
+the,
+
+46
+00:01:19,900 --> 00:01:20,789
+the person who bought it?
+
+47
+00:01:20,800 --> 00:01:21,390
+Maybe they do,
+
+48
+00:01:21,400 --> 00:01:23,490
+maybe they do a knuckleball Define ownership,
+
+49
+00:01:23,500 --> 00:01:23,990
+right?
+
+50
+00:01:24,000 --> 00:01:26,890
+The serial codes often do the fine order ship,
+
+51
+00:01:26,900 --> 00:01:29,990
+but only if their track against the purchaser.
+
+52
+00:01:30,000 --> 00:01:31,690
+So,
+
+53
+00:01:31,700 --> 00:01:32,589
+in a digital world,
+
+54
+00:01:33,800 --> 00:01:35,490
+Do we get serial codes on things?
+
+55
+00:01:35,500 --> 00:01:35,990
+Well,
+
+56
+00:01:36,000 --> 00:01:38,289
+think of a time,
+
+57
+00:01:38,300 --> 00:01:40,890
+where you bought a domain name,
+
+58
+00:01:40,900 --> 00:01:42,589
+a game skin,
+
+59
+00:01:42,600 --> 00:01:43,890
+a ticket,
+
+60
+00:01:43,900 --> 00:01:44,490
+right?
+
+61
+00:01:44,500 --> 00:01:49,089
+Just purchasing online in general makes all the difference in
+
+62
+00:01:49,100 --> 00:01:49,289
+the world.
+
+63
+00:01:49,300 --> 00:01:49,690
+Because,
+
+64
+00:01:49,700 --> 00:01:50,190
+you know,
+
+65
+00:01:50,200 --> 00:01:52,589
+you're purchasing a domain name is very traceable.
+
+66
+00:01:52,600 --> 00:01:52,890
+Right?
+
+67
+00:01:52,900 --> 00:01:56,589
+Like I cannot is tracking this person bought it and
+
+68
+00:01:56,600 --> 00:01:57,990
+we have whoisguard.
+
+69
+00:01:58,000 --> 00:02:00,190
+So there is a database tracking,
+
+70
+00:02:00,200 --> 00:02:02,490
+who is the rightful owner of the domain name.
+
+71
+00:02:02,500 --> 00:02:04,390
+Can I resell it?
+
+72
+00:02:05,600 --> 00:02:06,490
+Not really.
+
+73
+00:02:06,500 --> 00:02:06,990
+Well,
+
+74
+00:02:07,000 --> 00:02:08,590
+I can resell my domain,
+
+75
+00:02:08,600 --> 00:02:10,690
+but there's no real mechanism for it.
+
+76
+00:02:10,699 --> 00:02:11,790
+It's more.
+
+77
+00:02:11,800 --> 00:02:15,090
+So a transferability aspect and then someone,
+
+78
+00:02:15,100 --> 00:02:15,890
+you know,
+
+79
+00:02:15,900 --> 00:02:16,790
+pays me for.
+
+80
+00:02:16,800 --> 00:02:20,890
+There's no real on my mechanism that really warms fat
+
+81
+00:02:20,900 --> 00:02:22,590
+in a easy-to-use way.
+
+82
+00:02:22,600 --> 00:02:24,090
+Think of a game skin.
+
+83
+00:02:24,100 --> 00:02:26,190
+Have you ever played fortnite?
+
+84
+00:02:27,300 --> 00:02:28,790
+Although you buy that skin,
+
+85
+00:02:28,800 --> 00:02:29,690
+you know what,
+
+86
+00:02:29,700 --> 00:02:30,390
+it's linked to your account.
+
+87
+00:02:30,400 --> 00:02:31,190
+Therefore.
+
+88
+00:02:31,200 --> 00:02:32,890
+There is a form of ownership,
+
+89
+00:02:32,900 --> 00:02:33,490
+right?
+
+90
+00:02:33,500 --> 00:02:34,390
+A certain form.
+
+91
+00:02:34,400 --> 00:02:36,490
+But can I go and resell it on eBay?
+
+92
+00:02:36,500 --> 00:02:38,090
+Can I take that skin?
+
+93
+00:02:38,100 --> 00:02:39,490
+And you don't turn a profit?
+
+94
+00:02:39,500 --> 00:02:43,590
+It's quite difficult to ask a question.
+
+95
+00:02:43,600 --> 00:02:46,390
+Do you actually own it?
+
+96
+00:02:47,000 --> 00:02:52,190
+And ownership means that you can freely resell the good.
+
+97
+00:02:53,800 --> 00:02:54,590
+You own.
+
+98
+00:02:55,600 --> 00:02:56,190
+Right,
+
+99
+00:02:56,200 --> 00:02:57,790
+it does mean that,
+
+100
+00:02:57,800 --> 00:02:58,190
+right?
+
+101
+00:02:58,200 --> 00:02:58,390
+Like,
+
+102
+00:02:58,400 --> 00:02:59,490
+if I own something like,
+
+103
+00:02:59,500 --> 00:03:00,290
+if I buy a watch,
+
+104
+00:03:00,300 --> 00:03:01,490
+I have the physical good.
+
+105
+00:03:01,500 --> 00:03:02,290
+I go to a store,
+
+106
+00:03:02,300 --> 00:03:02,890
+I say,
+
+107
+00:03:02,900 --> 00:03:02,990
+hey,
+
+108
+00:03:03,000 --> 00:03:05,690
+how much and they give me money and I give
+
+109
+00:03:05,700 --> 00:03:06,290
+them the watch.
+
+110
+00:03:06,300 --> 00:03:10,090
+If I buy a game skin online on fortnite or
+
+111
+00:03:10,100 --> 00:03:11,490
+whatever other game,
+
+112
+00:03:11,500 --> 00:03:13,790
+you may play doesn't have to be 49,
+
+113
+00:03:13,800 --> 00:03:14,890
+but any game at all,
+
+114
+00:03:14,900 --> 00:03:18,090
+it's really difficult to resell it.
+
+115
+00:03:18,100 --> 00:03:21,190
+Like I can't just going for the price tag on
+
+116
+00:03:21,200 --> 00:03:21,290
+it.
+
+117
+00:03:21,300 --> 00:03:21,490
+Now,
+
+118
+00:03:21,500 --> 00:03:24,190
+there were certain games in the past that allowed this
+
+119
+00:03:24,200 --> 00:03:26,390
+ability of reselling skins,
+
+120
+00:03:26,400 --> 00:03:26,590
+right?
+
+121
+00:03:26,600 --> 00:03:29,090
+There was a csgo stuff that went on in there
+
+122
+00:03:29,100 --> 00:03:31,090
+have been ways of doing this,
+
+123
+00:03:31,100 --> 00:03:31,690
+right?
+
+124
+00:03:31,700 --> 00:03:33,390
+But all of those ways,
+
+125
+00:03:33,400 --> 00:03:38,290
+we're kind of proprietary like they weren't unified think of
+
+126
+00:03:38,300 --> 00:03:38,690
+it like this.
+
+127
+00:03:40,100 --> 00:03:44,690
+A market place to sell these digital things was usually
+
+128
+00:03:44,700 --> 00:03:47,690
+built custom to the asset.
+
+129
+00:03:47,700 --> 00:03:50,690
+That was being sold for the 10 unified way to
+
+130
+00:03:50,700 --> 00:03:53,890
+track ownership of any digital good whatsoever,
+
+131
+00:03:53,900 --> 00:03:55,090
+doesn't matter what it is.
+
+132
+00:03:55,100 --> 00:03:58,390
+And that exactly is what.
+
+133
+00:03:58,400 --> 00:04:02,290
+And if keys are trying to solve the right to
+
+134
+00:04:02,300 --> 00:04:04,990
+ownership the right to resell,
+
+135
+00:04:05,000 --> 00:04:08,690
+and they're enabling that through different mechanisms in those mechanisms
+
+136
+00:04:08,700 --> 00:04:09,590
+will talk about.
+
+137
+00:04:09,600 --> 00:04:12,390
+But the why of entities the why is the ownership
+
+138
+00:04:12,400 --> 00:04:17,190
+part the ownership of being very strict and through that
+
+139
+00:04:17,200 --> 00:04:22,390
+ownership enabling ways to clearly Define that
+
+140
+00:04:22,400 --> 00:04:22,890
+resale ability.
+
+141
+00:04:22,900 --> 00:04:24,990
+Because when we ask ourselves,
+
+142
+00:04:25,000 --> 00:04:26,890
+what's my proof today?
+
+143
+00:04:26,900 --> 00:04:28,190
+Is it an email?
+
+144
+00:04:28,700 --> 00:04:31,690
+Is it like a thread is the serial number?
+
+145
+00:04:31,700 --> 00:04:32,490
+Yeah,
+
+146
+00:04:32,500 --> 00:04:33,790
+maybe maybe it's all of those things.
+
+147
+00:04:33,800 --> 00:04:35,590
+But is it publicly traced?
+
+148
+00:04:35,600 --> 00:04:36,090
+No?
+
+149
+00:04:37,400 --> 00:04:41,190
+Is it clear know and all those questions?
+
+150
+00:04:41,200 --> 00:04:45,490
+All those problems are what NFP as a technology is
+
+151
+00:04:45,500 --> 00:04:48,190
+trying to solve know if we take nft as a
+
+152
+00:04:48,200 --> 00:04:48,490
+technology,
+
+153
+00:04:48,500 --> 00:04:49,990
+right?
+
+154
+00:04:50,000 --> 00:04:52,790
+Just don't brawl technology like the concept of an if
+
+155
+00:04:52,800 --> 00:04:56,590
+keep the token that represents the non-fungible item.
+
+156
+00:04:56,600 --> 00:04:58,190
+That is the y,
+
+157
+00:04:58,200 --> 00:05:03,190
+That's the ownership part and then through concept we
+
+158
+00:05:03,200 --> 00:05:03,890
+get into.
+
+159
+00:05:03,900 --> 00:05:04,790
+All right,
+
+160
+00:05:04,800 --> 00:05:06,490
+how do I enable that?
+
+161
+00:05:06,500 --> 00:05:10,890
+And that's when we enter blockchain a decentralized ledger,
+
+162
+00:05:10,900 --> 00:05:11,490
+right?
+
+163
+00:05:11,500 --> 00:05:13,590
+Blockchain technology again,
+
+164
+00:05:13,600 --> 00:05:18,390
+a technology that enables other Concepts other Technologies to build
+
+165
+00:05:18,400 --> 00:05:19,190
+upon it.
+
+166
+00:05:19,200 --> 00:05:20,890
+And that's what most men on.
+
+167
+00:05:20,900 --> 00:05:23,790
+But what I want to end on is that the
+
+168
+00:05:23,800 --> 00:05:28,590
+why of non-fungible tokens is for that proof of ownership
+
+169
+00:05:28,600 --> 00:05:31,190
+and through that proof of ownership,
+
+170
+00:05:31,200 --> 00:05:34,690
+having that Tolkien being able to say,
+
+171
+00:05:34,700 --> 00:05:37,290
+I own this asset and being able to enable me.
+
+172
+00:05:37,400 --> 00:05:38,190
+Places,
+
+173
+00:05:38,200 --> 00:05:38,890
+treatability,
+
+174
+00:05:38,900 --> 00:05:39,690
+resale ability.
+
+175
+00:05:39,700 --> 00:05:43,190
+All of those things we can do that now because
+
+176
+00:05:43,200 --> 00:05:44,590
+the concept is there,
+
+177
+00:05:44,600 --> 00:05:48,990
+a generic concept not a proprietary concept where Call of
+
+178
+00:05:49,000 --> 00:05:52,790
+Duty has its own Marketplace and fortnite has its own
+
+179
+00:05:52,800 --> 00:05:53,390
+Marketplace.
+
+180
+00:05:53,400 --> 00:05:56,790
+That means every company needs to build their own proprietary
+
+181
+00:05:56,800 --> 00:05:57,590
+system.
+
+182
+00:05:57,600 --> 00:06:01,990
+And if these enable a generic system that everyone can
+
+183
+00:06:02,000 --> 00:06:04,790
+build upon doesn't matter what company,
+
+184
+00:06:04,800 --> 00:06:09,490
+leverage the generic blockchain technology and enable resale ability without
+
+185
+00:06:09,500 --> 00:06:14,390
+needing to build all of the systems in a closed-off
+
+186
+00:06:14,400 --> 00:06:14,990
+way.

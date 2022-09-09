@@ -1,0 +1,984 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.920 --> 00:00:04.789 align:start position:0%
+ 
+before<00:00:02.320><c> we</c><00:00:02.480><c> dive</c><00:00:02.800><c> into</c><00:00:03.040><c> smart</c><00:00:03.439><c> contracts</c>
+
+00:00:04.789 --> 00:00:04.799 align:start position:0%
+before we dive into smart contracts
+ 
+
+00:00:04.799 --> 00:00:07.110 align:start position:0%
+before we dive into smart contracts
+let's<00:00:04.960><c> have</c><00:00:05.200><c> a</c><00:00:05.359><c> short</c><00:00:05.680><c> recap</c>
+
+00:00:07.110 --> 00:00:07.120 align:start position:0%
+let's have a short recap
+ 
+
+00:00:07.120 --> 00:00:09.190 align:start position:0%
+let's have a short recap
+in<00:00:07.279><c> that</c><00:00:07.520><c> short</c><00:00:07.680><c> recap</c><00:00:08.160><c> i</c><00:00:08.240><c> just</c><00:00:08.480><c> want</c><00:00:08.639><c> to</c><00:00:08.880><c> high</c>
+
+00:00:09.190 --> 00:00:09.200 align:start position:0%
+in that short recap i just want to high
+ 
+
+00:00:09.200 --> 00:00:11.509 align:start position:0%
+in that short recap i just want to high
+level<00:00:09.599><c> refresh</c><00:00:10.160><c> you</c><00:00:10.559><c> on</c><00:00:10.880><c> everything</c><00:00:11.360><c> we've</c>
+
+00:00:11.509 --> 00:00:11.519 align:start position:0%
+level refresh you on everything we've
+ 
+
+00:00:11.519 --> 00:00:13.509 align:start position:0%
+level refresh you on everything we've
+discussed<00:00:11.920><c> so</c><00:00:12.160><c> far</c><00:00:12.400><c> because</c>
+
+00:00:13.509 --> 00:00:13.519 align:start position:0%
+discussed so far because
+ 
+
+00:00:13.519 --> 00:00:15.749 align:start position:0%
+discussed so far because
+it's<00:00:13.840><c> all</c><00:00:14.080><c> very</c><00:00:14.400><c> high</c><00:00:14.639><c> level</c><00:00:14.960><c> right</c><00:00:15.519><c> we've</c>
+
+00:00:15.749 --> 00:00:15.759 align:start position:0%
+it's all very high level right we've
+ 
+
+00:00:15.759 --> 00:00:18.070 align:start position:0%
+it's all very high level right we've
+spoken<00:00:16.080><c> about</c><00:00:16.400><c> nfts</c><00:00:17.039><c> and</c><00:00:17.199><c> how</c><00:00:17.440><c> nfts</c><00:00:17.920><c> the</c>
+
+00:00:18.070 --> 00:00:18.080 align:start position:0%
+spoken about nfts and how nfts the
+ 
+
+00:00:18.080 --> 00:00:20.710 align:start position:0%
+spoken about nfts and how nfts the
+non-functional<00:00:18.800><c> token</c><00:00:19.279><c> aspect</c><00:00:19.840><c> are</c>
+
+00:00:20.710 --> 00:00:20.720 align:start position:0%
+non-functional token aspect are
+ 
+
+00:00:20.720 --> 00:00:23.269 align:start position:0%
+non-functional token aspect are
+the<00:00:20.960><c> concept</c><00:00:21.680><c> of</c><00:00:22.240><c> ownership</c><00:00:22.880><c> of</c><00:00:23.039><c> this</c>
+
+00:00:23.269 --> 00:00:23.279 align:start position:0%
+the concept of ownership of this
+ 
+
+00:00:23.279 --> 00:00:25.349 align:start position:0%
+the concept of ownership of this
+non-fungible<00:00:24.000><c> asset</c>
+
+00:00:25.349 --> 00:00:25.359 align:start position:0%
+non-fungible asset
+ 
+
+00:00:25.359 --> 00:00:26.150 align:start position:0%
+non-fungible asset
+right
+
+00:00:26.150 --> 00:00:26.160 align:start position:0%
+right
+ 
+
+00:00:26.160 --> 00:00:28.630 align:start position:0%
+right
+and<00:00:26.400><c> ownership</c><00:00:26.960><c> is</c><00:00:27.119><c> defined</c>
+
+00:00:28.630 --> 00:00:28.640 align:start position:0%
+and ownership is defined
+ 
+
+00:00:28.640 --> 00:00:32.310 align:start position:0%
+and ownership is defined
+by<00:00:29.199><c> the</c><00:00:29.439><c> ability</c><00:00:30.080><c> to</c><00:00:30.560><c> transact</c>
+
+00:00:32.310 --> 00:00:32.320 align:start position:0%
+by the ability to transact
+ 
+
+00:00:32.320 --> 00:00:34.950 align:start position:0%
+by the ability to transact
+liquidity<00:00:33.040><c> transferability</c>
+
+00:00:34.950 --> 00:00:34.960 align:start position:0%
+liquidity transferability
+ 
+
+00:00:34.960 --> 00:00:37.670 align:start position:0%
+liquidity transferability
+in<00:00:35.120><c> divisibility</c><00:00:36.000><c> like</c><00:00:36.320><c> it's</c><00:00:36.640><c> unique</c>
+
+00:00:37.670 --> 00:00:37.680 align:start position:0%
+in divisibility like it's unique
+ 
+
+00:00:37.680 --> 00:00:40.069 align:start position:0%
+in divisibility like it's unique
+that's<00:00:38.079><c> powered</c><00:00:38.399><c> by</c><00:00:38.640><c> blockchain</c><00:00:39.280><c> technology</c>
+
+00:00:40.069 --> 00:00:40.079 align:start position:0%
+that's powered by blockchain technology
+ 
+
+00:00:40.079 --> 00:00:43.350 align:start position:0%
+that's powered by blockchain technology
+so<00:00:40.239><c> we</c><00:00:40.399><c> said</c><00:00:40.800><c> okay</c><00:00:41.040><c> we</c><00:00:41.200><c> have</c><00:00:41.360><c> this</c><00:00:41.680><c> nft</c><00:00:42.559><c> thing</c>
+
+00:00:43.350 --> 00:00:43.360 align:start position:0%
+so we said okay we have this nft thing
+ 
+
+00:00:43.360 --> 00:00:45.270 align:start position:0%
+so we said okay we have this nft thing
+it's<00:00:43.600><c> concept</c>
+
+00:00:45.270 --> 00:00:45.280 align:start position:0%
+it's concept
+ 
+
+00:00:45.280 --> 00:00:47.190 align:start position:0%
+it's concept
+this<00:00:45.520><c> concept</c><00:00:46.160><c> can</c><00:00:46.559><c> be</c><00:00:46.719><c> powered</c><00:00:46.960><c> by</c>
+
+00:00:47.190 --> 00:00:47.200 align:start position:0%
+this concept can be powered by
+ 
+
+00:00:47.200 --> 00:00:48.549 align:start position:0%
+this concept can be powered by
+blockchain<00:00:47.680><c> because</c><00:00:47.920><c> blockchain</c><00:00:48.480><c> is</c>
+
+00:00:48.549 --> 00:00:48.559 align:start position:0%
+blockchain because blockchain is
+ 
+
+00:00:48.559 --> 00:00:50.549 align:start position:0%
+blockchain because blockchain is
+inherently<00:00:49.039><c> immutable</c><00:00:49.600><c> it's</c><00:00:49.760><c> decentralized</c>
+
+00:00:50.549 --> 00:00:50.559 align:start position:0%
+inherently immutable it's decentralized
+ 
+
+00:00:50.559 --> 00:00:51.910 align:start position:0%
+inherently immutable it's decentralized
+data<00:00:50.879><c> storage</c>
+
+00:00:51.910 --> 00:00:51.920 align:start position:0%
+data storage
+ 
+
+00:00:51.920 --> 00:00:54.229 align:start position:0%
+data storage
+sweet<00:00:52.719><c> so</c><00:00:52.879><c> now</c><00:00:53.039><c> we're</c><00:00:53.280><c> getting</c><00:00:53.520><c> to</c><00:00:53.680><c> the</c><00:00:53.840><c> crux</c>
+
+00:00:54.229 --> 00:00:54.239 align:start position:0%
+sweet so now we're getting to the crux
+ 
+
+00:00:54.239 --> 00:00:57.350 align:start position:0%
+sweet so now we're getting to the crux
+of<00:00:54.320><c> the</c><00:00:54.480><c> implementation</c><00:00:55.199><c> detail</c><00:00:56.000><c> right</c>
+
+00:00:57.350 --> 00:00:57.360 align:start position:0%
+of the implementation detail right
+ 
+
+00:00:57.360 --> 00:01:00.310 align:start position:0%
+of the implementation detail right
+we're<00:00:57.520><c> getting</c><00:00:57.840><c> to</c><00:00:58.160><c> ethereum</c><00:00:59.280><c> ethereum</c>
+
+00:01:00.310 --> 00:01:00.320 align:start position:0%
+we're getting to ethereum ethereum
+ 
+
+00:01:00.320 --> 00:01:01.590 align:start position:0%
+we're getting to ethereum ethereum
+powers
+
+00:01:01.590 --> 00:01:01.600 align:start position:0%
+powers
+ 
+
+00:01:01.600 --> 00:01:04.630 align:start position:0%
+powers
+nfts<00:01:02.879><c> how</c><00:01:03.039><c> does</c><00:01:03.280><c> ethereum</c><00:01:03.760><c> power</c><00:01:04.000><c> nfds</c><00:01:04.400><c> well</c>
+
+00:01:04.630 --> 00:01:04.640 align:start position:0%
+nfts how does ethereum power nfds well
+ 
+
+00:01:04.640 --> 00:01:07.590 align:start position:0%
+nfts how does ethereum power nfds well
+ethereum<00:01:05.280><c> is</c><00:01:05.519><c> a</c><00:01:05.680><c> blockchain</c><00:01:06.400><c> technology</c>
+
+00:01:07.590 --> 00:01:07.600 align:start position:0%
+ethereum is a blockchain technology
+ 
+
+00:01:07.600 --> 00:01:09.670 align:start position:0%
+ethereum is a blockchain technology
+ethereum<00:01:08.400><c> enables</c><00:01:08.960><c> you</c>
+
+00:01:09.670 --> 00:01:09.680 align:start position:0%
+ethereum enables you
+ 
+
+00:01:09.680 --> 00:01:13.350 align:start position:0%
+ethereum enables you
+to<00:01:10.000><c> deploy</c><00:01:10.880><c> code</c><00:01:11.520><c> onto</c><00:01:11.840><c> the</c><00:01:12.080><c> ethereum</c><00:01:12.640><c> network</c>
+
+00:01:13.350 --> 00:01:13.360 align:start position:0%
+to deploy code onto the ethereum network
+ 
+
+00:01:13.360 --> 00:01:15.590 align:start position:0%
+to deploy code onto the ethereum network
+ethereum<00:01:13.840><c> is</c><00:01:14.000><c> much</c><00:01:14.320><c> more</c><00:01:14.560><c> than</c><00:01:14.799><c> just</c><00:01:15.040><c> a</c><00:01:15.200><c> simple</c>
+
+00:01:15.590 --> 00:01:15.600 align:start position:0%
+ethereum is much more than just a simple
+ 
+
+00:01:15.600 --> 00:01:17.510 align:start position:0%
+ethereum is much more than just a simple
+coin<00:01:15.920><c> that</c><00:01:16.080><c> appreciates</c><00:01:16.720><c> in</c><00:01:16.799><c> value</c><00:01:17.200><c> no</c><00:01:17.360><c> it</c>
+
+00:01:17.510 --> 00:01:17.520 align:start position:0%
+coin that appreciates in value no it
+ 
+
+00:01:17.520 --> 00:01:19.749 align:start position:0%
+coin that appreciates in value no it
+allows<00:01:17.759><c> you</c><00:01:17.840><c> to</c><00:01:18.000><c> freely</c><00:01:18.400><c> transact</c><00:01:19.520><c> they've</c>
+
+00:01:19.749 --> 00:01:19.759 align:start position:0%
+allows you to freely transact they've
+ 
+
+00:01:19.759 --> 00:01:21.510 align:start position:0%
+allows you to freely transact they've
+built<00:01:20.080><c> all</c><00:01:20.240><c> these</c><00:01:20.479><c> standards</c><00:01:20.960><c> on</c><00:01:21.040><c> top</c><00:01:21.200><c> of</c><00:01:21.360><c> it</c>
+
+00:01:21.510 --> 00:01:21.520 align:start position:0%
+built all these standards on top of it
+ 
+
+00:01:21.520 --> 00:01:23.590 align:start position:0%
+built all these standards on top of it
+it<00:01:21.680><c> is</c><00:01:21.759><c> a</c><00:01:21.920><c> vast</c><00:01:22.400><c> fast</c><00:01:22.720><c> ecosystem</c><00:01:23.200><c> and</c><00:01:23.280><c> like</c><00:01:23.520><c> i</c>
+
+00:01:23.590 --> 00:01:23.600 align:start position:0%
+it is a vast fast ecosystem and like i
+ 
+
+00:01:23.600 --> 00:01:26.070 align:start position:0%
+it is a vast fast ecosystem and like i
+said<00:01:23.840><c> before</c><00:01:24.560><c> there's</c><00:01:24.880><c> a</c><00:01:25.040><c> lot</c><00:01:25.520><c> you</c><00:01:25.759><c> could</c>
+
+00:01:26.070 --> 00:01:26.080 align:start position:0%
+said before there's a lot you could
+ 
+
+00:01:26.080 --> 00:01:28.630 align:start position:0%
+said before there's a lot you could
+learn<00:01:26.640><c> just</c><00:01:27.040><c> about</c><00:01:27.520><c> ethereum</c><00:01:28.159><c> you</c><00:01:28.240><c> could</c><00:01:28.400><c> have</c>
+
+00:01:28.630 --> 00:01:28.640 align:start position:0%
+learn just about ethereum you could have
+ 
+
+00:01:28.640 --> 00:01:30.870 align:start position:0%
+learn just about ethereum you could have
+a<00:01:28.799><c> whole</c><00:01:29.119><c> course</c><00:01:29.439><c> on</c><00:01:29.600><c> it</c><00:01:30.079><c> because</c><00:01:30.400><c> it's</c><00:01:30.640><c> so</c>
+
+00:01:30.870 --> 00:01:30.880 align:start position:0%
+a whole course on it because it's so
+ 
+
+00:01:30.880 --> 00:01:31.910 align:start position:0%
+a whole course on it because it's so
+vast
+
+00:01:31.910 --> 00:01:31.920 align:start position:0%
+vast
+ 
+
+00:01:31.920 --> 00:01:34.390 align:start position:0%
+vast
+we're<00:01:32.159><c> trying</c><00:01:32.479><c> to</c><00:01:32.720><c> single</c><00:01:33.119><c> in</c><00:01:33.280><c> on</c><00:01:33.759><c> what</c><00:01:34.000><c> aspect</c>
+
+00:01:34.390 --> 00:01:34.400 align:start position:0%
+we're trying to single in on what aspect
+ 
+
+00:01:34.400 --> 00:01:35.670 align:start position:0%
+we're trying to single in on what aspect
+of<00:01:34.560><c> ethereum</c>
+
+00:01:35.670 --> 00:01:35.680 align:start position:0%
+of ethereum
+ 
+
+00:01:35.680 --> 00:01:38.710 align:start position:0%
+of ethereum
+helps<00:01:36.079><c> us</c><00:01:36.640><c> achieve</c><00:01:37.360><c> nfts</c>
+
+00:01:38.710 --> 00:01:38.720 align:start position:0%
+helps us achieve nfts
+ 
+
+00:01:38.720 --> 00:01:40.390 align:start position:0%
+helps us achieve nfts
+well<00:01:38.880><c> there's</c><00:01:39.119><c> this</c><00:01:39.439><c> concept</c>
+
+00:01:40.390 --> 00:01:40.400 align:start position:0%
+well there's this concept
+ 
+
+00:01:40.400 --> 00:01:42.950 align:start position:0%
+well there's this concept
+in<00:01:40.560><c> ethereum</c><00:01:41.119><c> called</c><00:01:41.439><c> smart</c><00:01:41.759><c> contracts</c><00:01:42.640><c> smart</c>
+
+00:01:42.950 --> 00:01:42.960 align:start position:0%
+in ethereum called smart contracts smart
+ 
+
+00:01:42.960 --> 00:01:44.950 align:start position:0%
+in ethereum called smart contracts smart
+contracts<00:01:43.520><c> are</c><00:01:44.000><c> no</c><00:01:44.159><c> more</c><00:01:44.399><c> than</c><00:01:44.560><c> pieces</c><00:01:44.880><c> of</c>
+
+00:01:44.950 --> 00:01:44.960 align:start position:0%
+contracts are no more than pieces of
+ 
+
+00:01:44.960 --> 00:01:47.830 align:start position:0%
+contracts are no more than pieces of
+code<00:01:45.280><c> that</c><00:01:45.439><c> you</c><00:01:45.600><c> deploy</c><00:01:46.079><c> onto</c><00:01:46.479><c> ethereum</c>
+
+00:01:47.830 --> 00:01:47.840 align:start position:0%
+code that you deploy onto ethereum
+ 
+
+00:01:47.840 --> 00:01:49.749 align:start position:0%
+code that you deploy onto ethereum
+and<00:01:48.000><c> then</c><00:01:48.159><c> by</c><00:01:48.320><c> deploying</c><00:01:48.720><c> them</c><00:01:48.960><c> onto</c><00:01:49.280><c> ethereum</c>
+
+00:01:49.749 --> 00:01:49.759 align:start position:0%
+and then by deploying them onto ethereum
+ 
+
+00:01:49.759 --> 00:01:53.429 align:start position:0%
+and then by deploying them onto ethereum
+they<00:01:50.000><c> now</c><00:01:50.640><c> become</c><00:01:51.439><c> their</c><00:01:51.759><c> own</c><00:01:52.240><c> entity</c><00:01:53.119><c> so</c><00:01:53.280><c> to</c>
+
+00:01:53.429 --> 00:01:53.439 align:start position:0%
+they now become their own entity so to
+ 
+
+00:01:53.439 --> 00:01:55.429 align:start position:0%
+they now become their own entity so to
+speak<00:01:53.920><c> okay</c><00:01:54.159><c> so</c><00:01:54.399><c> let's</c><00:01:54.640><c> dive</c><00:01:54.880><c> a</c><00:01:54.960><c> bit</c><00:01:55.119><c> deeper</c>
+
+00:01:55.429 --> 00:01:55.439 align:start position:0%
+speak okay so let's dive a bit deeper
+ 
+
+00:01:55.439 --> 00:01:56.870 align:start position:0%
+speak okay so let's dive a bit deeper
+into<00:01:55.680><c> that</c>
+
+00:01:56.870 --> 00:01:56.880 align:start position:0%
+into that
+ 
+
+00:01:56.880 --> 00:02:00.230 align:start position:0%
+into that
+what<00:01:57.280><c> is</c><00:01:57.759><c> a</c><00:01:58.079><c> smart</c><00:01:58.479><c> contract</c><00:01:59.200><c> on</c><00:01:59.360><c> the</c><00:01:59.600><c> ethereum</c>
+
+00:02:00.230 --> 00:02:00.240 align:start position:0%
+what is a smart contract on the ethereum
+ 
+
+00:02:00.240 --> 00:02:03.830 align:start position:0%
+what is a smart contract on the ethereum
+network<00:02:01.119><c> and</c><00:02:01.360><c> ethereum</c><00:02:02.479><c> is</c><00:02:02.799><c> powering</c>
+
+00:02:03.830 --> 00:02:03.840 align:start position:0%
+network and ethereum is powering
+ 
+
+00:02:03.840 --> 00:02:06.149 align:start position:0%
+network and ethereum is powering
+the<00:02:04.000><c> majority</c><00:02:04.640><c> of</c><00:02:04.880><c> this</c><00:02:05.119><c> concept</c><00:02:05.600><c> of</c><00:02:05.759><c> a</c><00:02:05.840><c> smart</c>
+
+00:02:06.149 --> 00:02:06.159 align:start position:0%
+the majority of this concept of a smart
+ 
+
+00:02:06.159 --> 00:02:08.630 align:start position:0%
+the majority of this concept of a smart
+contract<00:02:06.799><c> there</c><00:02:07.040><c> are</c><00:02:07.280><c> other</c><00:02:07.520><c> networks</c><00:02:08.399><c> trying</c>
+
+00:02:08.630 --> 00:02:08.640 align:start position:0%
+contract there are other networks trying
+ 
+
+00:02:08.640 --> 00:02:11.430 align:start position:0%
+contract there are other networks trying
+to<00:02:08.800><c> achieve</c><00:02:09.520><c> similar</c><00:02:09.920><c> things</c><00:02:10.239><c> again</c><00:02:10.959><c> a</c><00:02:11.120><c> smart</c>
+
+00:02:11.430 --> 00:02:11.440 align:start position:0%
+to achieve similar things again a smart
+ 
+
+00:02:11.440 --> 00:02:15.190 align:start position:0%
+to achieve similar things again a smart
+contract<00:02:11.920><c> is</c><00:02:12.080><c> a</c><00:02:12.239><c> type</c><00:02:12.640><c> of</c><00:02:12.879><c> ethereum</c><00:02:13.760><c> account</c>
+
+00:02:15.190 --> 00:02:15.200 align:start position:0%
+contract is a type of ethereum account
+ 
+
+00:02:15.200 --> 00:02:17.589 align:start position:0%
+contract is a type of ethereum account
+okay<00:02:15.760><c> okay</c><00:02:16.480><c> so</c>
+
+00:02:17.589 --> 00:02:17.599 align:start position:0%
+okay okay so
+ 
+
+00:02:17.599 --> 00:02:19.670 align:start position:0%
+okay okay so
+in<00:02:17.680><c> the</c><00:02:17.840><c> concept</c><00:02:18.319><c> you</c><00:02:18.400><c> know</c><00:02:18.560><c> we</c><00:02:18.720><c> know</c><00:02:18.959><c> of</c><00:02:19.120><c> block</c>
+
+00:02:19.670 --> 00:02:19.680 align:start position:0%
+in the concept you know we know of block
+ 
+
+00:02:19.680 --> 00:02:20.630 align:start position:0%
+in the concept you know we know of block
+chain
+
+00:02:20.630 --> 00:02:20.640 align:start position:0%
+chain
+ 
+
+00:02:20.640 --> 00:02:23.670 align:start position:0%
+chain
+with<00:02:20.959><c> bitcoin</c><00:02:21.440><c> and</c><00:02:21.599><c> ethereum</c><00:02:22.239><c> everyone</c><00:02:22.720><c> holds</c>
+
+00:02:23.670 --> 00:02:23.680 align:start position:0%
+with bitcoin and ethereum everyone holds
+ 
+
+00:02:23.680 --> 00:02:26.309 align:start position:0%
+with bitcoin and ethereum everyone holds
+a<00:02:23.920><c> wallet</c><00:02:24.319><c> right</c><00:02:24.959><c> everyone</c><00:02:25.440><c> has</c><00:02:25.680><c> this</c><00:02:25.920><c> wallet</c>
+
+00:02:26.309 --> 00:02:26.319 align:start position:0%
+a wallet right everyone has this wallet
+ 
+
+00:02:26.319 --> 00:02:27.990 align:start position:0%
+a wallet right everyone has this wallet
+and<00:02:26.480><c> it</c><00:02:26.560><c> can</c><00:02:26.720><c> hold</c><00:02:27.040><c> coins</c>
+
+00:02:27.990 --> 00:02:28.000 align:start position:0%
+and it can hold coins
+ 
+
+00:02:28.000 --> 00:02:31.110 align:start position:0%
+and it can hold coins
+well<00:02:28.239><c> a</c><00:02:28.400><c> smart</c><00:02:28.800><c> contract</c><00:02:29.520><c> is</c><00:02:29.840><c> no</c><00:02:30.160><c> more</c>
+
+00:02:31.110 --> 00:02:31.120 align:start position:0%
+well a smart contract is no more
+ 
+
+00:02:31.120 --> 00:02:33.750 align:start position:0%
+well a smart contract is no more
+than<00:02:31.440><c> a</c><00:02:31.680><c> wallet</c><00:02:32.160><c> itself</c><00:02:32.640><c> right</c><00:02:32.959><c> it</c><00:02:33.120><c> can</c><00:02:33.440><c> hold</c>
+
+00:02:33.750 --> 00:02:33.760 align:start position:0%
+than a wallet itself right it can hold
+ 
+
+00:02:33.760 --> 00:02:35.270 align:start position:0%
+than a wallet itself right it can hold
+things
+
+00:02:35.270 --> 00:02:35.280 align:start position:0%
+things
+ 
+
+00:02:35.280 --> 00:02:38.949 align:start position:0%
+things
+but<00:02:35.840><c> users</c><00:02:36.640><c> can</c><00:02:36.959><c> interact</c><00:02:37.519><c> with</c><00:02:37.760><c> it</c><00:02:38.239><c> okay</c>
+
+00:02:38.949 --> 00:02:38.959 align:start position:0%
+but users can interact with it okay
+ 
+
+00:02:38.959 --> 00:02:41.589 align:start position:0%
+but users can interact with it okay
+users<00:02:39.280><c> can</c><00:02:39.519><c> interact</c><00:02:40.080><c> with</c><00:02:40.400><c> a</c><00:02:40.560><c> smart</c><00:02:40.959><c> contract</c>
+
+00:02:41.589 --> 00:02:41.599 align:start position:0%
+users can interact with a smart contract
+ 
+
+00:02:41.599 --> 00:02:43.990 align:start position:0%
+users can interact with a smart contract
+so<00:02:41.840><c> it's</c><00:02:42.080><c> an</c><00:02:42.239><c> account</c><00:02:42.640><c> it</c><00:02:42.720><c> can</c><00:02:42.879><c> hold</c><00:02:43.200><c> things</c>
+
+00:02:43.990 --> 00:02:44.000 align:start position:0%
+so it's an account it can hold things
+ 
+
+00:02:44.000 --> 00:02:45.910 align:start position:0%
+so it's an account it can hold things
+users<00:02:44.319><c> can</c><00:02:44.560><c> interact</c><00:02:44.959><c> with</c><00:02:45.200><c> it</c><00:02:45.519><c> think</c><00:02:45.760><c> of</c><00:02:45.840><c> it</c>
+
+00:02:45.910 --> 00:02:45.920 align:start position:0%
+users can interact with it think of it
+ 
+
+00:02:45.920 --> 00:02:47.830 align:start position:0%
+users can interact with it think of it
+like<00:02:46.160><c> a</c><00:02:46.239><c> vending</c><00:02:46.560><c> machine</c><00:02:46.959><c> you</c><00:02:47.120><c> give</c><00:02:47.360><c> it</c><00:02:47.519><c> money</c>
+
+00:02:47.830 --> 00:02:47.840 align:start position:0%
+like a vending machine you give it money
+ 
+
+00:02:47.840 --> 00:02:51.270 align:start position:0%
+like a vending machine you give it money
+it<00:02:48.000><c> gives</c><00:02:48.239><c> you</c><00:02:48.319><c> something</c><00:02:48.840><c> back</c><00:02:49.920><c> all</c><00:02:50.160><c> right</c>
+
+00:02:51.270 --> 00:02:51.280 align:start position:0%
+it gives you something back all right
+ 
+
+00:02:51.280 --> 00:02:54.229 align:start position:0%
+it gives you something back all right
+but<00:02:51.599><c> smart</c><00:02:52.000><c> contracts</c><00:02:52.879><c> well</c><00:02:53.040><c> they</c><00:02:53.200><c> can</c><00:02:53.360><c> define</c>
+
+00:02:54.229 --> 00:02:54.239 align:start position:0%
+but smart contracts well they can define
+ 
+
+00:02:54.239 --> 00:02:57.190 align:start position:0%
+but smart contracts well they can define
+rules<00:02:54.959><c> and</c><00:02:55.200><c> enforce</c><00:02:55.760><c> them</c><00:02:56.239><c> via</c><00:02:56.640><c> code</c><00:02:56.879><c> so</c><00:02:57.040><c> when</c>
+
+00:02:57.190 --> 00:02:57.200 align:start position:0%
+rules and enforce them via code so when
+ 
+
+00:02:57.200 --> 00:02:59.589 align:start position:0%
+rules and enforce them via code so when
+you<00:02:57.440><c> interact</c><00:02:57.920><c> with</c><00:02:58.159><c> it</c><00:02:58.560><c> it</c><00:02:58.720><c> can</c><00:02:58.879><c> have</c><00:02:59.040><c> a</c><00:02:59.200><c> rule</c>
+
+00:02:59.589 --> 00:02:59.599 align:start position:0%
+you interact with it it can have a rule
+ 
+
+00:02:59.599 --> 00:03:02.869 align:start position:0%
+you interact with it it can have a rule
+set<00:03:00.319><c> you</c><00:03:00.560><c> can</c><00:03:00.879><c> only</c><00:03:01.599><c> get</c><00:03:01.840><c> something</c><00:03:02.319><c> from</c><00:03:02.560><c> me</c>
+
+00:03:02.869 --> 00:03:02.879 align:start position:0%
+set you can only get something from me
+ 
+
+00:03:02.879 --> 00:03:05.430 align:start position:0%
+set you can only get something from me
+if<00:03:03.120><c> you</c><00:03:03.440><c> adhere</c><00:03:04.000><c> to</c><00:03:04.159><c> the</c><00:03:04.319><c> rules</c><00:03:04.800><c> that</c><00:03:05.040><c> i</c><00:03:05.200><c> have</c>
+
+00:03:05.430 --> 00:03:05.440 align:start position:0%
+if you adhere to the rules that i have
+ 
+
+00:03:05.440 --> 00:03:08.070 align:start position:0%
+if you adhere to the rules that i have
+pre-programmed<00:03:06.720><c> in</c><00:03:06.879><c> my</c><00:03:07.120><c> code</c><00:03:07.680><c> it</c><00:03:07.760><c> would</c><00:03:07.920><c> be</c>
+
+00:03:08.070 --> 00:03:08.080 align:start position:0%
+pre-programmed in my code it would be
+ 
+
+00:03:08.080 --> 00:03:10.710 align:start position:0%
+pre-programmed in my code it would be
+the<00:03:08.239><c> same</c><00:03:08.560><c> concept</c><00:03:09.040><c> as</c><00:03:09.360><c> a</c><00:03:09.440><c> human</c><00:03:09.840><c> telling</c><00:03:10.159><c> you</c>
+
+00:03:10.710 --> 00:03:10.720 align:start position:0%
+the same concept as a human telling you
+ 
+
+00:03:10.720 --> 00:03:12.309 align:start position:0%
+the same concept as a human telling you
+i'll<00:03:10.879><c> give</c><00:03:11.120><c> you</c><00:03:11.360><c> this</c>
+
+00:03:12.309 --> 00:03:12.319 align:start position:0%
+i'll give you this
+ 
+
+00:03:12.319 --> 00:03:15.589 align:start position:0%
+i'll give you this
+if<00:03:13.040><c> you</c><00:03:13.200><c> give</c><00:03:13.440><c> me</c><00:03:13.680><c> this</c><00:03:13.920><c> much</c><00:03:14.640><c> aetherium</c><00:03:15.360><c> but</c>
+
+00:03:15.589 --> 00:03:15.599 align:start position:0%
+if you give me this much aetherium but
+ 
+
+00:03:15.599 --> 00:03:17.670 align:start position:0%
+if you give me this much aetherium but
+it's<00:03:15.840><c> automated</c><00:03:16.400><c> now</c><00:03:16.720><c> there's</c><00:03:16.959><c> no</c><00:03:17.120><c> more</c>
+
+00:03:17.670 --> 00:03:17.680 align:start position:0%
+it's automated now there's no more
+ 
+
+00:03:17.680 --> 00:03:19.270 align:start position:0%
+it's automated now there's no more
+transactability<00:03:18.560><c> a</c><00:03:18.640><c> smart</c><00:03:18.959><c> contract</c>
+
+00:03:19.270 --> 00:03:19.280 align:start position:0%
+transactability a smart contract
+ 
+
+00:03:19.280 --> 00:03:20.949 align:start position:0%
+transactability a smart contract
+basically<00:03:19.760><c> enforces</c><00:03:20.159><c> the</c><00:03:20.319><c> moment</c><00:03:20.560><c> you</c><00:03:20.720><c> give</c>
+
+00:03:20.949 --> 00:03:20.959 align:start position:0%
+basically enforces the moment you give
+ 
+
+00:03:20.959 --> 00:03:21.910 align:start position:0%
+basically enforces the moment you give
+it<00:03:21.040><c> something</c><00:03:21.360><c> it's</c><00:03:21.519><c> going</c><00:03:21.599><c> to</c><00:03:21.680><c> give</c><00:03:21.840><c> you</c>
+
+00:03:21.910 --> 00:03:21.920 align:start position:0%
+it something it's going to give you
+ 
+
+00:03:21.920 --> 00:03:23.509 align:start position:0%
+it something it's going to give you
+something<00:03:22.159><c> back</c><00:03:22.400><c> because</c><00:03:22.720><c> it</c><00:03:22.879><c> is</c><00:03:22.959><c> the</c><00:03:23.120><c> account</c>
+
+00:03:23.509 --> 00:03:23.519 align:start position:0%
+something back because it is the account
+ 
+
+00:03:23.519 --> 00:03:25.430 align:start position:0%
+something back because it is the account
+itself<00:03:23.920><c> it</c><00:03:24.239><c> holds</c>
+
+00:03:25.430 --> 00:03:25.440 align:start position:0%
+itself it holds
+ 
+
+00:03:25.440 --> 00:03:28.869 align:start position:0%
+itself it holds
+it<00:03:25.840><c> holds</c><00:03:26.400><c> the</c><00:03:26.640><c> actual</c><00:03:27.200><c> value</c><00:03:27.680><c> itself</c>
+
+00:03:28.869 --> 00:03:28.879 align:start position:0%
+it holds the actual value itself
+ 
+
+00:03:28.879 --> 00:03:29.670 align:start position:0%
+it holds the actual value itself
+so
+
+00:03:29.670 --> 00:03:29.680 align:start position:0%
+so
+ 
+
+00:03:29.680 --> 00:03:33.190 align:start position:0%
+so
+it<00:03:29.920><c> is</c><00:03:30.239><c> more</c><00:03:31.120><c> than</c><00:03:31.360><c> just</c><00:03:31.680><c> a</c><00:03:31.840><c> bit</c><00:03:32.000><c> of</c><00:03:32.239><c> code</c>
+
+00:03:33.190 --> 00:03:33.200 align:start position:0%
+it is more than just a bit of code
+ 
+
+00:03:33.200 --> 00:03:34.550 align:start position:0%
+it is more than just a bit of code
+that<00:03:33.519><c> runs</c>
+
+00:03:34.550 --> 00:03:34.560 align:start position:0%
+that runs
+ 
+
+00:03:34.560 --> 00:03:39.110 align:start position:0%
+that runs
+on<00:03:35.200><c> ethereum</c><00:03:36.239><c> it</c><00:03:36.959><c> can</c><00:03:37.200><c> be</c><00:03:37.440><c> its</c><00:03:37.760><c> own</c><00:03:38.080><c> entity</c><00:03:38.959><c> and</c>
+
+00:03:39.110 --> 00:03:39.120 align:start position:0%
+on ethereum it can be its own entity and
+ 
+
+00:03:39.120 --> 00:03:41.750 align:start position:0%
+on ethereum it can be its own entity and
+with<00:03:39.360><c> that</c><00:03:39.680><c> comes</c><00:03:40.319><c> drawbacks</c><00:03:40.879><c> right</c><00:03:41.200><c> like</c>
+
+00:03:41.750 --> 00:03:41.760 align:start position:0%
+with that comes drawbacks right like
+ 
+
+00:03:41.760 --> 00:03:43.750 align:start position:0%
+with that comes drawbacks right like
+what<00:03:42.000><c> you</c><00:03:42.239><c> program</c><00:03:42.640><c> in</c><00:03:42.799><c> the</c><00:03:42.879><c> smart</c><00:03:43.200><c> contract</c>
+
+00:03:43.750 --> 00:03:43.760 align:start position:0%
+what you program in the smart contract
+ 
+
+00:03:43.760 --> 00:03:46.149 align:start position:0%
+what you program in the smart contract
+and<00:03:43.840><c> what</c><00:03:44.000><c> you</c><00:03:44.159><c> put</c><00:03:44.400><c> on</c><00:03:44.480><c> the</c><00:03:44.640><c> ethereum</c><00:03:45.120><c> network</c>
+
+00:03:46.149 --> 00:03:46.159 align:start position:0%
+and what you put on the ethereum network
+ 
+
+00:03:46.159 --> 00:03:48.149 align:start position:0%
+and what you put on the ethereum network
+well<00:03:46.720><c> you</c><00:03:46.879><c> don't</c><00:03:47.040><c> want</c><00:03:47.200><c> to</c><00:03:47.280><c> put</c><00:03:47.519><c> bugs</c><00:03:47.760><c> in</c><00:03:47.920><c> that</c>
+
+00:03:48.149 --> 00:03:48.159 align:start position:0%
+well you don't want to put bugs in that
+ 
+
+00:03:48.159 --> 00:03:49.190 align:start position:0%
+well you don't want to put bugs in that
+now<00:03:48.319><c> do</c><00:03:48.560><c> you</c>
+
+00:03:49.190 --> 00:03:49.200 align:start position:0%
+now do you
+ 
+
+00:03:49.200 --> 00:03:51.190 align:start position:0%
+now do you
+but<00:03:49.840><c> in</c><00:03:50.000><c> essence</c>
+
+00:03:51.190 --> 00:03:51.200 align:start position:0%
+but in essence
+ 
+
+00:03:51.200 --> 00:03:53.030 align:start position:0%
+but in essence
+these<00:03:51.440><c> smart</c><00:03:51.760><c> contracts</c><00:03:52.319><c> allow</c><00:03:52.640><c> us</c><00:03:52.799><c> to</c>
+
+00:03:53.030 --> 00:03:53.040 align:start position:0%
+these smart contracts allow us to
+ 
+
+00:03:53.040 --> 00:03:56.229 align:start position:0%
+these smart contracts allow us to
+enforce<00:03:53.840><c> and</c><00:03:54.080><c> create</c><00:03:55.040><c> these</c><00:03:55.360><c> transactable</c>
+
+00:03:56.229 --> 00:03:56.239 align:start position:0%
+enforce and create these transactable
+ 
+
+00:03:56.239 --> 00:03:57.750 align:start position:0%
+enforce and create these transactable
+events
+
+00:03:57.750 --> 00:03:57.760 align:start position:0%
+events
+ 
+
+00:03:57.760 --> 00:03:58.630 align:start position:0%
+events
+right
+
+00:03:58.630 --> 00:03:58.640 align:start position:0%
+right
+ 
+
+00:03:58.640 --> 00:04:01.429 align:start position:0%
+right
+and<00:03:59.120><c> a</c><00:03:59.200><c> smart</c><00:03:59.519><c> contract</c><00:04:00.239><c> being</c><00:04:00.720><c> just</c><00:04:01.200><c> the</c>
+
+00:04:01.429 --> 00:04:01.439 align:start position:0%
+and a smart contract being just the
+ 
+
+00:04:01.439 --> 00:04:03.990 align:start position:0%
+and a smart contract being just the
+concept<00:04:02.159><c> of</c><00:04:02.400><c> the</c><00:04:02.640><c> code</c><00:04:03.040><c> that</c><00:04:03.280><c> can</c><00:04:03.519><c> be</c><00:04:03.760><c> on</c><00:04:03.840><c> the</c>
+
+00:04:03.990 --> 00:04:04.000 align:start position:0%
+concept of the code that can be on the
+ 
+
+00:04:04.000 --> 00:04:06.550 align:start position:0%
+concept of the code that can be on the
+ethereum<00:04:04.400><c> blockchain</c><00:04:05.519><c> that</c><00:04:06.000><c> can</c><00:04:06.319><c> be</c>
+
+00:04:06.550 --> 00:04:06.560 align:start position:0%
+ethereum blockchain that can be
+ 
+
+00:04:06.560 --> 00:04:07.990 align:start position:0%
+ethereum blockchain that can be
+transactable
+
+00:04:07.990 --> 00:04:08.000 align:start position:0%
+transactable
+ 
+
+00:04:08.000 --> 00:04:12.309 align:start position:0%
+transactable
+that<00:04:08.480><c> is</c><00:04:09.120><c> where</c><00:04:09.599><c> the</c><00:04:09.760><c> power</c><00:04:10.400><c> lies</c><00:04:11.360><c> and</c><00:04:11.519><c> so</c>
+
+00:04:12.309 --> 00:04:12.319 align:start position:0%
+that is where the power lies and so
+ 
+
+00:04:12.319 --> 00:04:15.030 align:start position:0%
+that is where the power lies and so
+understanding<00:04:12.799><c> what</c><00:04:12.959><c> a</c><00:04:13.040><c> smart</c><00:04:13.360><c> contract</c><00:04:14.080><c> is</c>
+
+00:04:15.030 --> 00:04:15.040 align:start position:0%
+understanding what a smart contract is
+ 
+
+00:04:15.040 --> 00:04:18.789 align:start position:0%
+understanding what a smart contract is
+makes<00:04:15.519><c> us</c><00:04:15.840><c> able</c><00:04:16.160><c> to</c><00:04:16.479><c> look</c><00:04:16.880><c> a</c><00:04:17.040><c> bit</c><00:04:17.519><c> closer</c><00:04:18.160><c> at</c>
+
+00:04:18.789 --> 00:04:18.799 align:start position:0%
+makes us able to look a bit closer at
+ 
+
+00:04:18.799 --> 00:04:19.830 align:start position:0%
+makes us able to look a bit closer at
+well
+
+00:04:19.830 --> 00:04:19.840 align:start position:0%
+well
+ 
+
+00:04:19.840 --> 00:04:21.749 align:start position:0%
+well
+how<00:04:20.000><c> would</c><00:04:20.160><c> we</c><00:04:20.479><c> program</c>
+
+00:04:21.749 --> 00:04:21.759 align:start position:0%
+how would we program
+ 
+
+00:04:21.759 --> 00:04:23.749 align:start position:0%
+how would we program
+these<00:04:22.079><c> smart</c><00:04:22.479><c> contracts</c>
+
+00:04:23.749 --> 00:04:23.759 align:start position:0%
+these smart contracts
+ 
+
+00:04:23.759 --> 00:04:24.710 align:start position:0%
+these smart contracts
+to
+
+00:04:24.710 --> 00:04:24.720 align:start position:0%
+to
+ 
+
+00:04:24.720 --> 00:04:28.070 align:start position:0%
+to
+hold<00:04:25.440><c> digital</c><00:04:26.320><c> art</c><00:04:26.880><c> right</c><00:04:27.600><c> and</c><00:04:27.759><c> that's</c><00:04:28.000><c> what</c>
+
+00:04:28.070 --> 00:04:28.080 align:start position:0%
+hold digital art right and that's what
+ 
+
+00:04:28.080 --> 00:04:30.790 align:start position:0%
+hold digital art right and that's what
+we're<00:04:28.320><c> getting</c><00:04:28.639><c> at</c><00:04:28.880><c> here</c><00:04:29.199><c> is</c><00:04:29.840><c> what</c>
+
+00:04:30.790 --> 00:04:30.800 align:start position:0%
+we're getting at here is what
+ 
+
+00:04:30.800 --> 00:04:34.150 align:start position:0%
+we're getting at here is what
+do<00:04:31.040><c> i</c><00:04:31.199><c> need</c><00:04:31.360><c> to</c><00:04:31.520><c> do</c><00:04:32.160><c> for</c><00:04:32.400><c> an</c><00:04:32.639><c> nft</c>
+
+00:04:34.150 --> 00:04:34.160 align:start position:0%
+do i need to do for an nft
+ 
+
+00:04:34.160 --> 00:04:36.629 align:start position:0%
+do i need to do for an nft
+in<00:04:34.400><c> the</c><00:04:34.560><c> form</c><00:04:34.800><c> of</c><00:04:35.040><c> digital</c><00:04:35.520><c> art</c>
+
+00:04:36.629 --> 00:04:36.639 align:start position:0%
+in the form of digital art
+ 
+
+00:04:36.639 --> 00:04:38.710 align:start position:0%
+in the form of digital art
+on<00:04:36.880><c> a</c><00:04:36.960><c> smart</c><00:04:37.360><c> contract</c><00:04:37.919><c> to</c><00:04:38.080><c> deploy</c><00:04:38.400><c> to</c><00:04:38.560><c> the</c>
+
+00:04:38.710 --> 00:04:38.720 align:start position:0%
+on a smart contract to deploy to the
+ 
+
+00:04:38.720 --> 00:04:41.110 align:start position:0%
+on a smart contract to deploy to the
+ethereum<00:04:39.360><c> network</c><00:04:39.919><c> and</c><00:04:40.320><c> we're</c><00:04:40.639><c> starting</c><00:04:40.960><c> to</c>
+
+00:04:41.110 --> 00:04:41.120 align:start position:0%
+ethereum network and we're starting to
+ 
+
+00:04:41.120 --> 00:04:43.430 align:start position:0%
+ethereum network and we're starting to
+come<00:04:41.440><c> full</c><00:04:41.680><c> circle</c><00:04:42.080><c> here</c><00:04:42.720><c> and</c><00:04:42.880><c> so</c><00:04:43.040><c> let's</c><00:04:43.280><c> look</c>
+
+00:04:43.430 --> 00:04:43.440 align:start position:0%
+come full circle here and so let's look
+ 
+
+00:04:43.440 --> 00:04:45.030 align:start position:0%
+come full circle here and so let's look
+a<00:04:43.520><c> bit</c><00:04:43.759><c> closer</c><00:04:44.240><c> at</c>
+
+00:04:45.030 --> 00:04:45.040 align:start position:0%
+a bit closer at
+ 
+
+00:04:45.040 --> 00:04:46.790 align:start position:0%
+a bit closer at
+what<00:04:45.280><c> type</c><00:04:45.520><c> of</c><00:04:45.680><c> smart</c><00:04:46.080><c> contracts</c><00:04:46.639><c> are</c>
+
+00:04:46.790 --> 00:04:46.800 align:start position:0%
+what type of smart contracts are
+ 
+
+00:04:46.800 --> 00:04:47.990 align:start position:0%
+what type of smart contracts are
+necessary
+
+00:04:47.990 --> 00:04:48.000 align:start position:0%
+necessary
+ 
+
+00:04:48.000 --> 00:04:51.320 align:start position:0%
+necessary
+for<00:04:48.320><c> nfts</c>
+
