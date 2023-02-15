@@ -1,743 +1,743 @@
 ﻿1
 00:00:00,000 --> 00:00:01,390
-Now that we know what,
+خوب حالا میدونیم داستان از چه قراره
 
 2
 00:00:01,400 --> 00:00:04,490
-and if these are right and what the difference is
+خوب اگه که اینطوره
 
 3
 00:00:04,500 --> 00:00:07,790
-between a fungible and a non-fungible asset.
+تفاوت بین دارایی قابل و غیر قابل تعویض چیه
 
 4
 00:00:07,800 --> 00:00:10,190
-We can definitely have to ask her a question.
+میتونیم به راحتی سوال بپرسیم
 
 5
 00:00:10,200 --> 00:00:11,790
-Why,
+چرا؟
 
 6
 00:00:11,800 --> 00:00:13,690
-why do we need?
+چرا نیاز داری؟
 
 7
 00:00:13,700 --> 00:00:15,490
-And if peace to do anything at all?
+و در کل منظور چیه؟
 
 8
 00:00:15,500 --> 00:00:18,590
-What is the purpose of a saying?
+و هدف گفتن چیه؟
 
 9
 00:00:18,600 --> 00:00:18,990
-Okay.
+اوکی
 
 10
 00:00:19,000 --> 00:00:19,889
-Well,
+حوب
 
 11
 00:00:19,900 --> 00:00:20,290
-we know what,
+میدونیم که
 
 12
 00:00:20,300 --> 00:00:22,490
-a fungible acid as we know what a non-fungible asset
+دارایی قابل و غیر قابل تعویض چیه
 
 13
 00:00:22,500 --> 00:00:22,689
-is,
+خوب
 
 14
 00:00:22,700 --> 00:00:25,990
-but why do we need these tokens to Define ownership,
+خوب برای چی به این توکن ها برای مالکیت نیار داریم
 
 15
 00:00:26,000 --> 00:00:26,590
-right?
+خوب؟
 
 16
 00:00:26,600 --> 00:00:27,790
-And,
+و
 
 17
 00:00:27,800 --> 00:00:28,389
-you know,
+میدونید که
 
 18
 00:00:28,400 --> 00:00:29,490
-at the end of the day,
+میدونید که
 
 19
 00:00:29,500 --> 00:00:30,389
-that's a great question.
+میدونید که
 
 20
 00:00:31,400 --> 00:00:31,889
-So,
+خوب
 
 21
 00:00:31,900 --> 00:00:32,990
-let's talk about purpose,
+بیاید درباره هدف حرف بزنیم
 
 22
 00:00:33,000 --> 00:00:33,390
-right?
+درسته؟
 
 23
 00:00:33,400 --> 00:00:37,990
-Let's talk about purpose in a digital world in the
+درمورد هدف در دنیای دیجیتال حرف بزنیم
 
 24
 00:00:38,000 --> 00:00:42,690
-digital world ownership was never clearly defined.
+مالکیت در دنیای دیجیتال هیچوقت به درستی بیان نشده
 
 25
 00:00:42,700 --> 00:00:47,890
-What I mean by this was never clearly defined honestly,
+منظورم از هیچوقت چیه
 
 26
 00:00:47,900 --> 00:00:47,990
-like,
+خوب مثل
 
 27
 00:00:48,000 --> 00:00:49,490
-when I bought something,
+زمانیه که چیزی میخرم
 
 28
 00:00:49,500 --> 00:00:51,890
-I knew I was the owner of it yet.
+میدونم که مالکش هستم
 
 29
 00:00:51,900 --> 00:00:52,490
-You knew,
+میدونی
 
 30
 00:00:52,500 --> 00:00:54,390
-but was it public?
+اما آیا به صورت عمومی هست؟
 
 31
 00:00:54,400 --> 00:00:58,590
-Did you have the sole rights to that item?
+آیا حقوق رو نسبت به اون آیتم ررعایت کردی؟
 
 32
 00:00:58,600 --> 00:01:01,190
-Is it traceable?
+یا قابل ترسیم و پیگیری هست؟
 
 33
 00:01:01,200 --> 00:01:03,590
-Write all of those things just like,
+همه این موارد رو بنویس
 
 34
 00:01:03,600 --> 00:01:04,089
-only a watch.
+فقط یه دونه ساعت
 
 35
 00:01:04,099 --> 00:01:05,289
-I know that's my watch.
+من میدونم که ساعتمه
 
 36
 00:01:05,300 --> 00:01:07,390
-I know that I bought that watch.
+میدونم که اون ساعتو خریدم
 
 37
 00:01:07,400 --> 00:01:08,390
-Therefore.
+و
 
 38
 00:01:08,400 --> 00:01:09,589
-That is my watch,
+این ساعت منه
 
 39
 00:01:09,600 --> 00:01:09,890
-right.
+درسته
 
 40
 00:01:10,400 --> 00:01:11,289
-Yeah,
+بله
 
 41
 00:01:11,300 --> 00:01:11,789
-but like,
+اما
 
 42
 00:01:11,800 --> 00:01:15,390
-what actually makes it your watch is it tracked in
+اما چی باعث میشه که ساعت تو قابل ردیابی باشه داخل
 
 43
 00:01:15,400 --> 00:01:16,190
-the database somewhere?
+یک دیتابیس
 
 44
 00:01:16,200 --> 00:01:19,690
-Does Rolex keep a database of the serial number against
+آیا رولکس دیتابیسی برای نگهداری شماره سریال ها داره
 
 45
 00:01:19,700 --> 00:01:19,890
-the,
+برای
 
 46
 00:01:19,900 --> 00:01:20,789
-the person who bought it?
+شخصی که خریداری کرده ؟
 
 47
 00:01:20,800 --> 00:01:21,390
-Maybe they do,
+شاید انجام بدن
 
 48
 00:01:21,400 --> 00:01:23,490
-maybe they do a knuckleball Define ownership,
+شاید مالکیتی رو تعریف کنن
 
 49
 00:01:23,500 --> 00:01:23,990
-right?
+درسته؟
 
 50
 00:01:24,000 --> 00:01:26,890
-The serial codes often do the fine order ship,
+شماره سریال میتونه کمک کننده باشه
 
 51
 00:01:26,900 --> 00:01:29,990
-but only if their track against the purchaser.
+اما اگه بشه خریدار رو ردیابی کرد
 
 52
 00:01:30,000 --> 00:01:31,690
-So,
+بنابراین
 
 53
 00:01:31,700 --> 00:01:32,589
-in a digital world,
+در دنیای دیجیتال
 
 54
 00:01:33,800 --> 00:01:35,490
-Do we get serial codes on things?
+آیا شماره سریال برای وسایل داریم؟
 
 55
 00:01:35,500 --> 00:01:35,990
-Well,
+خوب
 
 56
 00:01:36,000 --> 00:01:38,289
-think of a time,
+بهش فکر کنیم
 
 57
 00:01:38,300 --> 00:01:40,890
-where you bought a domain name,
+کجا اسم یک دامنه رو میخری
 
 58
 00:01:40,900 --> 00:01:42,589
-a game skin,
+یا یه بازی
 
 59
 00:01:42,600 --> 00:01:43,890
-a ticket,
+یا بلیط
 
 60
 00:01:43,900 --> 00:01:44,490
-right?
+درسته؟
 
 61
 00:01:44,500 --> 00:01:49,089
-Just purchasing online in general makes all the difference in
+فقط خریداری آنلاین تحولی ایجاد میکنه
 
 62
 00:01:49,100 --> 00:01:49,289
-the world.
+در جهان
 
 63
 00:01:49,300 --> 00:01:49,690
-Because,
+چون
 
 64
 00:01:49,700 --> 00:01:50,190
-you know,
+میدونی
 
 65
 00:01:50,200 --> 00:01:52,589
-you're purchasing a domain name is very traceable.
+خرید دامنه راحت  میشه پیگیریش کرد
 
 66
 00:01:52,600 --> 00:01:52,890
-Right?
+درست؟
 
 67
 00:01:52,900 --> 00:01:56,589
-Like I cannot is tracking this person bought it and
+ولی اون فرد خریدار رو نمیتونیم پیگیری کنیم
 
 68
 00:01:56,600 --> 00:01:57,990
-we have whoisguard.
+ولی اون فرد خریدار رو نمیتونیم پیگیری کنیم
 
 69
 00:01:58,000 --> 00:02:00,190
-So there is a database tracking,
+خوب دیتابیس ردیابی موجو هست
 
 70
 00:02:00,200 --> 00:02:02,490
-who is the rightful owner of the domain name.
+مالک اصلی دامنه چه کسی است؟
 
 71
 00:02:02,500 --> 00:02:04,390
-Can I resell it?
+میتونم دوباره بفروشمش
 
 72
 00:02:05,600 --> 00:02:06,490
-Not really.
+نه در واقع
 
 73
 00:02:06,500 --> 00:02:06,990
-Well,
+خوب
 
 74
 00:02:07,000 --> 00:02:08,590
-I can resell my domain,
+میتونم دامنه رو دوباره بفروشم
 
 75
 00:02:08,600 --> 00:02:10,690
-but there's no real mechanism for it.
+اما مکانیزم اصلی برای این نیست
 
 76
 00:02:10,699 --> 00:02:11,790
-It's more.
+بلکه بیشتره
 
 77
 00:02:11,800 --> 00:02:15,090
-So a transferability aspect and then someone,
+جنبه قابل انتقال هر چیز
 
 78
 00:02:15,100 --> 00:02:15,890
-you know,
+میدونی
 
 79
 00:02:15,900 --> 00:02:16,790
-pays me for.
+که به من پرداخت میشه
 
 80
 00:02:16,800 --> 00:02:20,890
-There's no real on my mechanism that really warms fat
+اما مکانیزم اصلی برای این نیست
 
 81
 00:02:20,900 --> 00:02:22,590
-in a easy-to-use way.
+که بشه راحت استفاده کرد
 
 82
 00:02:22,600 --> 00:02:24,090
-Think of a game skin.
+به یک بازی فکر کنید
 
 83
 00:02:24,100 --> 00:02:26,190
-Have you ever played fortnite?
+آیا تا به حال فورتنایت بازی کردید؟
 
 84
 00:02:27,300 --> 00:02:28,790
-Although you buy that skin,
+یه چهره رو در نظر بگیرید
 
 85
 00:02:28,800 --> 00:02:29,690
-you know what,
+میدونی
 
 86
 00:02:29,700 --> 00:02:30,390
-it's linked to your account.
+که به اکانتتون متصل میشه
 
 87
 00:02:30,400 --> 00:02:31,190
-Therefore.
+که
 
 88
 00:02:31,200 --> 00:02:32,890
-There is a form of ownership,
+شکلی از مالکیته
 
 89
 00:02:32,900 --> 00:02:33,490
-right?
+درسته؟
 
 90
 00:02:33,500 --> 00:02:34,390
-A certain form.
+در فرم خاصی
 
 91
 00:02:34,400 --> 00:02:36,490
-But can I go and resell it on eBay?
+و این که میتونم تو ای بی بفروشم؟
 
 92
 00:02:36,500 --> 00:02:38,090
-Can I take that skin?
+میتونیم اون چهره رو داشته باشیم؟
 
 93
 00:02:38,100 --> 00:02:39,490
-And you don't turn a profit?
+و این که سودی میکنید؟
 
 94
 00:02:39,500 --> 00:02:43,590
-It's quite difficult to ask a question.
+سخته که این سوال رو بپرسی
 
 95
 00:02:43,600 --> 00:02:46,390
-Do you actually own it?
+آیا واقعا مالکش هستی؟
 
 96
 00:02:47,000 --> 00:02:52,190
-And ownership means that you can freely resell the good.
+و مالکیت اینه که به راحتی بتونی بفروشی
 
 97
 00:02:53,800 --> 00:02:54,590
-You own.
+چیزی که مالکش هستی
 
 98
 00:02:55,600 --> 00:02:56,190
-Right,
+درسته؟
 
 99
 00:02:56,200 --> 00:02:57,790
-it does mean that,
+به این معنی است کهگفته شد
 
 100
 00:02:57,800 --> 00:02:58,190
-right?
+صحیح
 
 101
 00:02:58,200 --> 00:02:58,390
-Like,
+صحیح
 
 102
 00:02:58,400 --> 00:02:59,490
-if I own something like,
+اگه مالکیت چیزی رو داشته باشیم
 
 103
 00:02:59,500 --> 00:03:00,290
-if I buy a watch,
+اگه من ساعتی بخرم
 
 104
 00:03:00,300 --> 00:03:01,490
-I have the physical good.
+اگه یک کالای فیزیکی بگیریم
 
 105
 00:03:01,500 --> 00:03:02,290
-I go to a store,
+به فروشگاه میرم
 
 106
 00:03:02,300 --> 00:03:02,890
-I say,
+و میگم
 
 107
 00:03:02,900 --> 00:03:02,990
-hey,
+هی
 
 108
 00:03:03,000 --> 00:03:05,690
-how much and they give me money and I give
+چه مقدار باید پول بدیم برای 
 
 109
 00:03:05,700 --> 00:03:06,290
-them the watch.
+یک ساعت
 
 110
 00:03:06,300 --> 00:03:10,090
-If I buy a game skin online on fortnite or
+اگه یه چهره داخل فورتنایت بخریم
 
 111
 00:03:10,100 --> 00:03:11,490
-whatever other game,
+یا هر بازی دیگه
 
 112
 00:03:11,500 --> 00:03:13,790
-you may play doesn't have to be 49,
+که نباید حتما تو فورتنایت باشه
 
 113
 00:03:13,800 --> 00:03:14,890
-but any game at all,
+و در هر بازی
 
 114
 00:03:14,900 --> 00:03:18,090
-it's really difficult to resell it.
+سخته که دوباره بفروشیش
 
 115
 00:03:18,100 --> 00:03:21,190
-Like I can't just going for the price tag on
+و نمیشه که قیمتی روش گذاشت
 
 116
 00:03:21,200 --> 00:03:21,290
-it.
+ 
 
 117
 00:03:21,300 --> 00:03:21,490
-Now,
+حالا
 
 118
 00:03:21,500 --> 00:03:24,190
-there were certain games in the past that allowed this
+خوب بازی های مشخصی هستند که میشه
 
 119
 00:03:24,200 --> 00:03:26,390
-ability of reselling skins,
+چهره ها را فروخت
 
 120
 00:03:26,400 --> 00:03:26,590
-right?
+درست؟
 
 121
 00:03:26,600 --> 00:03:29,090
-There was a csgo stuff that went on in there
+و باید ابزاری باشد
 
 122
 00:03:29,100 --> 00:03:31,090
-have been ways of doing this,
+راه هایی برای این کار هست
 
 123
 00:03:31,100 --> 00:03:31,690
-right?
+درسته؟
 
 124
 00:03:31,700 --> 00:03:33,390
-But all of those ways,
+اما همه این راه ها
 
 125
 00:03:33,400 --> 00:03:38,290
-we're kind of proprietary like they weren't unified think of
+باید بخش اختصاصی داشته باشد
 
 126
 00:03:38,300 --> 00:03:38,690
-it like this.
+مثل همان
 
 127
 00:03:40,100 --> 00:03:44,690
-A market place to sell these digital things was usually
+مارکت پلیسی برای فروختن آن باید
 
 128
 00:03:44,700 --> 00:03:47,690
-built custom to the asset.
+دارایی خالصی رو پشتیبانی کنه
 
 129
 00:03:47,700 --> 00:03:50,690
-That was being sold for the 10 unified way to
+برای فروش و ردیابی راه هایی وجود داره
 
 130
 00:03:50,700 --> 00:03:53,890
-track ownership of any digital good whatsoever,
+که مالکیتی را پیگیری کنی
 
 131
 00:03:53,900 --> 00:03:55,090
-doesn't matter what it is.
+که مهم نیست چی باشه
 
 132
 00:03:55,100 --> 00:03:58,390
-And that exactly is what.
+و این که دقیقا چی هست
 
 133
 00:03:58,400 --> 00:04:02,290
-And if keys are trying to solve the right to
+و این کلیدی برای مالکیت برای فروش دوباره س
 
 134
 00:04:02,300 --> 00:04:04,990
-ownership the right to resell,
+ 
 
 135
 00:04:05,000 --> 00:04:08,690
-and they're enabling that through different mechanisms in those mechanisms
+و مکانیزم خاص خودشو داره
 
 136
 00:04:08,700 --> 00:04:09,590
-will talk about.
+که دربارش صحبت میکنیم
 
 137
 00:04:09,600 --> 00:04:12,390
-But the why of entities the why is the ownership
+و چطور مالکیت هارو بیان میکنن
 
 138
 00:04:12,400 --> 00:04:17,190
-part the ownership of being very strict and through that
+ 
 
 139
 00:04:17,200 --> 00:04:22,390
-ownership enabling ways to clearly Define that
+مالکیت میتواند تعریفی برای توانایی فروش دوباره س
 
 140
 00:04:22,400 --> 00:04:22,890
-resale ability.
+ 
 
 141
 00:04:22,900 --> 00:04:24,990
-Because when we ask ourselves,
+و از خودمون میپرسم
 
 142
 00:04:25,000 --> 00:04:26,890
-what's my proof today?
+اثبات من چیه
 
 143
 00:04:26,900 --> 00:04:28,190
-Is it an email?
+آیا یک ایمیله؟
 
 144
 00:04:28,700 --> 00:04:31,690
-Is it like a thread is the serial number?
+یا مثل یک شماره سریاله؟
 
 145
 00:04:31,700 --> 00:04:32,490
-Yeah,
+آره
 
 146
 00:04:32,500 --> 00:04:33,790
-maybe maybe it's all of those things.
+میتونه مثل اینا باشه
 
 147
 00:04:33,800 --> 00:04:35,590
-But is it publicly traced?
+ولی آیا به صورت عمومی هستش؟
 
 148
 00:04:35,600 --> 00:04:36,090
-No?
+نه؟
 
 149
 00:04:37,400 --> 00:04:41,190
-Is it clear know and all those questions?
+آیا این سوالات واضحه؟
 
 150
 00:04:41,200 --> 00:04:45,490
-All those problems are what NFP as a technology is
+همه این مسائل رو میشه با ان اف تی حل کرد
 
 151
 00:04:45,500 --> 00:04:48,190
-trying to solve know if we take nft as a
+ 
 
 152
 00:04:48,200 --> 00:04:48,490
-technology,
+با این تکنولوژی
 
 153
 00:04:48,500 --> 00:04:49,990
-right?
+درسته؟
 
 154
 00:04:50,000 --> 00:04:52,790
-Just don't brawl technology like the concept of an if
+این تکنولوژی هست که 
 
 155
 00:04:52,800 --> 00:04:56,590
-keep the token that represents the non-fungible item.
+توکن ها رو به صورت غیر قابل تعویض بیان کنه
 
 156
 00:04:56,600 --> 00:04:58,190
-That is the y,
+خوب چرایی موضوع همینه
 
 157
 00:04:58,200 --> 00:05:03,190
-That's the ownership part and then through concept we
+برای همینه که مالکیت داخل این مفهوم میگنجه
 
 158
 00:05:03,200 --> 00:05:03,890
-get into.
+ 
 
 159
 00:05:03,900 --> 00:05:04,790
-All right,
+خوب
 
 160
 00:05:04,800 --> 00:05:06,490
-how do I enable that?
+چطور میتونم فعالش کنم؟
 
 161
 00:05:06,500 --> 00:05:10,890
-And that's when we enter blockchain a decentralized ledger,
+برای همین میتونیم وارد فضای غیرمتمرکز بلاکچین بشیم
 
 162
 00:05:10,900 --> 00:05:11,490
-right?
+خوب
 
 163
 00:05:11,500 --> 00:05:13,590
-Blockchain technology again,
+تکنولوژی بلاکچین
 
 164
 00:05:13,600 --> 00:05:18,390
-a technology that enables other Concepts other Technologies to build
+تکنولوژی که میتونه این مفهوم رو اجرا کنه
 
 165
 00:05:18,400 --> 00:05:19,190
-upon it.
+ 
 
 166
 00:05:19,200 --> 00:05:20,890
-And that's what most men on.
+و کاری هست که خیلی ها انجام میدن
 
 167
 00:05:20,900 --> 00:05:23,790
-But what I want to end on is that the
+خوب چی میخوایم
 
 168
 00:05:23,800 --> 00:05:28,590
-why of non-fungible tokens is for that proof of ownership
+توکن های غیر قابل تعویض مفهومی برای مالکیته
 
 169
 00:05:28,600 --> 00:05:31,190
-and through that proof of ownership,
+که مالکیت رو اثبات میکنه
 
 170
 00:05:31,200 --> 00:05:34,690
-having that Tolkien being able to say,
+که توکن همین رو بیان میکنه
 
 171
 00:05:34,700 --> 00:05:37,290
-I own this asset and being able to enable me.
+که مالکیت این دارایی رو میتونیم داشته باشیم
 
 172
 00:05:37,400 --> 00:05:38,190
-Places,
+برای مکان ها
 
 173
 00:05:38,200 --> 00:05:38,890
-treatability,
+ 
 
 174
 00:05:38,900 --> 00:05:39,690
-resale ability.
+توانایی فروش 
 
 175
 00:05:39,700 --> 00:05:43,190
-All of those things we can do that now because
+خوب کاری هست که میتونیم انجام بدیم
 
 176
 00:05:43,200 --> 00:05:44,590
-the concept is there,
+که مفهومش وجود داره
 
 177
 00:05:44,600 --> 00:05:48,990
-a generic concept not a proprietary concept where Call of
+که در خصوص این دارایی ها میشه
 
 178
 00:05:49,000 --> 00:05:52,790
-Duty has its own Marketplace and fortnite has its own
+هر کدام مارکت پلیسی داشته باشه
 
 179
 00:05:52,800 --> 00:05:53,390
-Marketplace.
+ 
 
 180
 00:05:53,400 --> 00:05:56,790
-That means every company needs to build their own proprietary
+راهی است که شرکت ها باید برای مالکیت داشته باشند
 
 181
 00:05:56,800 --> 00:05:57,590
-system.
+ 
 
 182
 00:05:57,600 --> 00:06:01,990
-And if these enable a generic system that everyone can
+و باید سیستمی باشد
 
 183
 00:06:02,000 --> 00:06:04,790
-build upon doesn't matter what company,
+ 
 
 184
 00:06:04,800 --> 00:06:09,490
-leverage the generic blockchain technology and enable resale ability without
+که با این تکنولوژی بلاکچین میش هسیستمی برای مالکیت ایجاد کرد
 
 185
 00:06:09,500 --> 00:06:14,390
-needing to build all of the systems in a closed-off
+ 
 
 186
 00:06:14,400 --> 00:06:14,990
-way.
+ 
